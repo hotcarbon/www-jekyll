@@ -22,7 +22,7 @@ subtitle                 : "Workshop on Sustainable Computer Systems"
 name                     : "HotCarbon"
 description              : "Workshop on Sustainable Computer Systems"
 url                      : "https://hotcarbon.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/www-jekyll" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /images/favicon.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -334,4 +334,4 @@ defaults:
         - title: Upcoming Edition
         - nav: side-nav
         - title: Past Editions
-        - text: "Find all papers and talks [here](/read)"
+        - text: "Find all papers and talks [here](/www-jekyll/read)"
