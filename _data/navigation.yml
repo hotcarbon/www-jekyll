@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "Read"
+    url: /read
+  - title: "Organizers"
+    url: /orga
+
+side-nav:
+  - title: "HotCarbon'24"
+    url: /
+    children:
+      - title: "Call for Papers"
+        url: /cfp
+      - title: "Committee"
+        url: /committee
+      - title: "Program"
+        url: /program
+      - title: "Register"
+        url: /register

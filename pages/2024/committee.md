@@ -1,0 +1,4 @@
+---
+permalink: /committee
+---
+Comming soon...

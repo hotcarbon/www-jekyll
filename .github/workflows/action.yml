@@ -1,0 +1,28 @@
+name: Publishing website updates
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  jekyll:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v3
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+
+    # Specify the target branch (optional)
+    - name: Jekyll Actions
+      uses: helaili/jekyll-action@2.5.0
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'website'

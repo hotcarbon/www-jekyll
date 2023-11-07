@@ -1,0 +1,5 @@
+---
+permalink: /register
+---
+
+Comming soon...
