@@ -1,25 +1,19 @@
 ---
 permalink: /read
-toc: true
+# toc: false
+# classes: wide
 ---
+
+# 1st Edition - 2022
 
 <!-- Loop through all papers -->
 {% assign papers = site.data.program.y2022.papers %}
 {% for paper in papers %}
-{{paper.title}}
-{{paper.authors}}
+{% include paper.html 
+    title=paper.title 
+    authors=paper.authors 
+    pdf=paper.pdf
+    video=paper.video
+    yt-id=paper.yt-id
+%}
 {% endfor %}<!-- Loop through all papers -->
-
-# Volume 3 (2023)
-
-{% bibliography --query @*[volume=3] %}
-
-
-# Volume 2 (2022)
-
-{% bibliography --query @*[volume=2] %}
-
-
-# Volume 1 (2021)
-
-{% bibliography --query @*[volume=1] %}

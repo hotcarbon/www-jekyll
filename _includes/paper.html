@@ -1,0 +1,20 @@
+<div>
+    <a href="{{ include.pdf }}">
+        {{ include.title }}
+    </a>
+    <br>
+    <!-- PDF -->
+    <a href="{{include.pdf}}">
+        <img src="https://img.shields.io/badge/-PDF-blue?logo=adobeacrobatreader&labelColor=grey"></a>
+    <!-- Video -->
+    <a href="{{include.video}}">
+        <img src="https://img.shields.io/badge/-Video-red?logo=youtube&labelColor=grey"></a>
+    <br>
+    <!-- Authors -->
+    {% for author in paper.authors %}
+    {{author.name}} ({{author.affiliation}})
+    {% endfor %}
+    <!-- Embeded video -->
+    {% capture youtube-id %}{{include.yt-id}}{% endcapture %}
+    {% include video.html id=youtube-id%}
+</div>
