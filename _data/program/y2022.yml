@@ -1,7 +1,7 @@
 
 keynote:
   title: "Building low-carbon computer systems: when does carbon diverge from cost?"
-  authors: "Ian Schneider (Google, Inc.)"
+  authors: "Ian Schneider (_Google, Inc._)"
   video: https://youtu\.be/W7uTbxCxmPg
   yt-id: "W7uTbxCxmPg"
   abstract: "Carbon emissions are an increasingly salient metric for data centers and computer systems, as well as for the software that runs on them. As organizations seek to reduce computer system carbon emissions, we have much to learn about the level of carbon data precision that is necessary to drive effective sustainability actions. Data center carbon emissions come primarily from the electricity used to power computer systems, the embodied emissions of IT equipment, and the emissions associated with data center construction. To reduce carbon emissions, we need data on the key drivers of carbon emissions. However, the available data quality is low, especially for embodied emissions. Furthermore, carbon emissions are generally correlated with overall costs. In many cases, efforts to reduce overall costs already help to reduce carbon emissions, and efforts to directly reduce carbon emissions may be hindered by imprecise carbon data or incomplete coverage. However, there are important exceptions to the general correlation between costs and carbon emissions. For example, specialized hardware like an AI accelerator could increase costs but reduce energy consumption for certain types of software. Moreover, lower-carbon suppliers may charge higher costs for commodity products. How should organizations chart a path towards more precise carbon emission data, and what is the appropriate level of investment in higher-quality data? What are the areas and decisions where operating costs serve as a useful proxy for carbon emissions, and what are the areas where these two criteria diverge?"
@@ -11,12 +11,12 @@ papers:
   pdf: "/2022/pdf/hotcarbon22-tannu.pdf"
   video: https://youtu\.be/-0tzoSEL8iA
   yt-id: "-0tzoSEL8iA"
-  # authors: "Swamit Tannu (_University of Wisconsin-Madison_); Prashant J. Nair (_University of British Columbia_)"
-  authors:
-  - name: Swamit Tannu
-    affiliation: University of Wisconsin-Madison
-  - name: Prashant J. Nair 
-    affiliation: University of British Columbia
+  authors: "Swamit Tannu (_University of Wisconsin-Madison_); Prashant J. Nair (_University of British Columbia_)"
+  # authors:
+  # - name: Swamit Tannu
+  #   affiliation: University of Wisconsin-Madison
+  # - name: Prashant J. Nair 
+  #   affiliation: University of British Columbia
 - title : "Something Old, Something New: Extending the Life of CPUs in Datacenters"
   pdf: "/2022/pdf/hotcarbon22-tomlinson.pdf"
   video: https://youtu\.be/UhGySmVZ2ZA
