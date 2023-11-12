@@ -17,68 +17,88 @@ papers:
   #   affiliation: University of Wisconsin-Madison
   # - name: Prashant J. Nair 
   #   affiliation: University of British Columbia
+  session: 1
 - title : "Something Old, Something New: Extending the Life of CPUs in Datacenters"
   pdf: "/2022/pdf/hotcarbon22-tomlinson.pdf"
   video: https://youtu\.be/UhGySmVZ2ZA
   yt-id: "UhGySmVZ2ZA"
   authors: "Amanda Tomlinson, George Porter (_University of California, San Diego_)"
+  session: 1
 - title : "Low Power but High Energy: The Looming Costs of Billions of Smart Devices"
   pdf: "/2022/pdf/hotcarbon22-wang.pdf"
   video: https://youtu\.be/pkJUapm9lbU
   yt-id: "pkJUapm9lbU"
   authors: "Wenpeng Wang, Victor Ariel Leal Sobral, Md Fazlay Rabbi Masum Billah, Nurani Saoda, Nabeel Nasir, Bradford Campbell (_University of Virginia_)"
+  session: 1
+
+
 - title : "Toward Carbon-Aware Networking"
   pdf: "/2022/pdf/hotcarbon22-zilberman.pdf"
   video: https://youtu\.be/3TnhbHmdBjw
   yt-id: "3TnhbHmdBjw"
   authors: "Noa Zilberman (_University of Oxford_); Eve Schooler, Uri Cummings (_Intel_); Rajit Manohar (_Yale University_); Dawn Nafus (_Intel_); Robert Soulé (_Yale University_); Rick Taylor (_Ori Industries_)"
+  session: 2
 - title : "The Internet of tomorrow must sleep more and grow old"
   pdf: "/2022/pdf/hotcarbon22-jacob.pdf"
   video: https://youtu\.be/EUprOJTvQ84
   yt-id: "EUprOJTvQ84"
   authors: "Romain Jacob, Laurent Vanbever (_ETH Zürich_)"
+  session: 2
 - title : "Multiple smaller base stations are greener than a single powerful one: Densification of Wireless Cellular Networks"
   pdf: "/2022/pdf/hotcarbon22-gupta.pdf"
   video: https://youtu\.be/3H_-jbiaoF8
   yt-id: "3H_-jbiaoF8"
   authors: "Agrim Gupta, Ish Kumar Jain, Dinesh Bharadia (_University of California San Diego_)"
+  session: 2
+
+
 - title : "Sustainable Computing - Without the Hot Air"
   pdf: "/2022/pdf/hotcarbon22-bashir.pdf"
   video: https://youtu\.be/uQsKxmEMj5A
   yt-id: "uQsKxmEMj5A"
   authors: "Noman Bashir, David Irwin, Prashant Shenoy, Abel Souza (_University of Massachusetts Amherst_)"
+  session: 3
 - title : "Beyond PUE: Flexible Datacenters Empowering the Cloud to Decarbonize"
   pdf: "/2022/pdf/hotcarbon22-chien.pdf"
   video: https://youtu\.be/N-tWk1pNn_A
   yt-id: "N-tWk1pNn_A"
   authors: "Andrew A. Chien (_University of Chicago and Argonne National Laboratory_); Chaojie Zhang, Liuzixuan Lin, Varsha Rao (_University of Chicago_)"
+  session: 3
 - title : "Metrics for Sustainability in Data Centers"
   pdf: "/2022/pdf/hotcarbon22-gandhi.pdf"
   video: https://youtu\.be/PZpX3wqgCmU
   yt-id: "PZpX3wqgCmU"
   authors: "Anshul Gandhi (_Stony Brook University_); Kanad Ghose, Kartik Gopalan (_Binghamton University_); Syed Rafiul Hussain (_Pennsylvania State University_); Dongyoon Lee (_Stony Brook University_); Yu David Liu (_Binghamton University_); Zhenhua Liu (_Stony Brook University_); Patrick McDaniel (_Pennsylvania State University_); Shuai Mu, Erez Zadok (_Stony Brook University_)"
+  session: 3
 - title : "The Odd One Out: Energy is not like Other Metrics"
   pdf: "/2022/pdf/hotcarbon22-anand.pdf"
   video: https://youtu\.be/3EWmqhah7Rs
   yt-id: "3EWmqhah7Rs"
   authors: "Vaastav Anand, Zhiqiang Xie, Matheus Stolet, Roberta De Viti, Thomas Davidson, Reyhaneh Karimipour, Safya Alzayat, Jonathan Mace (_Max Planck Institute for Software Systems (_MPI-SWS_)_)"
+  session: 3
+
+
 - title : "Carbon Dependencies in Datacenter Design and Management"
   pdf: "/2022/pdf/hotcarbon22-acun.pdf"
   video: https://youtu\.be/Ywk3H1PHec8
   yt-id: "Ywk3H1PHec8"
   authors: "Bilge Acun (_Meta AI / FAIR_); Benjamin C. Lee (_University of Pennsylvania, Meta_); Fiodar Kazhamiaka (_Stanford University_); Aditya Sundarrajan, Manoj Chakkaravarthy (_Meta_); Kiwan Maeng (_Meta AI_); David Brooks (_Harvard_); Carole-Jean Wu (_Meta AI / FAIR / ASU_)"
+  session: 4
 - title : "Challenges and Opportunities in Sustainable Serverless Computing"
   pdf: "/2022/pdf/hotcarbon22-sharma.pdf"
   video: https://youtu\.be/noWMDxVAOyk
   yt-id: "noWMDxVAOyk"
   authors: "Prateek Sharma (_Indiana University_)"
+  session: 4
 - title : "A Case For Carbon-Aware Datacenter Software"
   pdf: "/2022/pdf/hotcarbon22-anderson.pdf"
   video: https://youtu\.be/4AEtZn4zwJQ
   yt-id: "4AEtZn4zwJQ"
   authors: "Thomas Anderson (_University of Washington_); Adam Belay (_MIT_); Mosharaf Chowdhury (_University of Michigan_); Asaf Cidon (_Columbia_); Irene Zhang (_Microsoft Research_)"
+  session: 4
 - title : "The Sky is not the limit: Untapped opportunities for Green Computing"
   pdf: "/2022/pdf/hotcarbon22-josephson.pdf"
   video: https://youtu\.be/TnVmrsdH6Xo
   yt-id: "TnVmrsdH6Xo"
   authors: "Colleen Josephson (_VMware and UC Santa Cruz_); Zhelong Pan, Nicola Peill-Moelter, Victor Firoiu, Ben Pfaff (_VMware_)"
+  session: 4

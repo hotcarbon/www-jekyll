@@ -1,24 +1,24 @@
 <div style="margin-bottom: 20px;">
     <div style="display: inline-block; width: 65%; vertical-align: top;">
-        <a href="{{ include.pdf }}">
-            {{ include.title }}
+        <a href="{{ include.paper.pdf }}">
+            {{ include.paper.title }}
         </a>
         <br>
         <!-- PDF -->
-        <a href="{{include.pdf}}">
+        <a href="{{include.paper.pdf}}">
             <img src="https://img.shields.io/badge/-PDF-blue?logo=adobeacrobatreader&labelColor=grey"></a>
         <!-- Video -->
-        <a href="{{include.video}}">
+        <a href="{{include.paper.video}}">
             <img src="https://img.shields.io/badge/-Video-red?logo=youtube&labelColor=grey"></a>
         <br>
-        {{paper.authors | markdownify }}
+        {{include.paper.authors | markdownify }}
         <!-- Authors -->
         <!-- {% for author in paper.authors %}
         {{author.name}} ({{author.affiliation}})
         {% endfor %} -->
     </div><div style="display: inline-block; width: 35%; vertical-align: top;">
         <!-- Embeded video -->
-        {% capture youtube-id %}{{include.yt-id}}{% endcapture %}
+        {% capture youtube-id %}{{include.paper.yt-id}}{% endcapture %}
         {% include video id=youtube-id provider="youtube" %}
     </div>
 </div>

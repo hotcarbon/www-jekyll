@@ -6,7 +6,7 @@ toc: false
 
 HotCarbon aims to bring together researchers and practitioners in computer and network systems to engage in a lively discussion focused on sustainability throughout the entire lifecycle of modern computing, focusing on both the operational and embodied impact of computer systems.
 
-### Updates and News
+## News
 <ul class="post-list">
   {% for post in site.posts limit:1 %}
   {% if post.type == "news" %}

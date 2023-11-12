@@ -1,21 +1,21 @@
 # main links
 main:
-  - title: "About"
+  - title: "Home"
     url: /
-  - title: "Read"
-    url: /read
   - title: "Organizers"
     url: /orga
+  - title: "Call for Papers"
+    url: /cfp
+  - title: "Program"
+    url: /program
+  - title: "Register"
+    url: /register
 
 side-nav:
-  - title: "HotCarbon'24"
-    url: /
-    children:
-      - title: "Call for Papers"
-        url: /cfp
-      - title: "Committee"
-        url: /committee
-      - title: "Program"
-        url: /program
-      - title: "Register"
-        url: /register
+  - title: "Past editions"
+    url: /2023
+    children: 
+    - title: 2023
+      url: /2023
+    - title: 2022
+      url: /2022

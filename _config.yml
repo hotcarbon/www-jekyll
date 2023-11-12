@@ -331,7 +331,7 @@ defaults:
       toc_sticky: true
       toc_icon: "book-reader"  # corresponding Font Awesome icon name (without fa prefix)
       sidebar:
-        - title: Upcoming Edition
+        # - title: Upcoming Edition
         - nav: side-nav
-        - title: Past Editions
-        - text: "Find all papers and talks [here](/www-jekyll/read)"
+        # - title: Past Editions
+        # - text: "Find all papers and talks [here](/www-jekyll/read)"
