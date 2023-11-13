@@ -18,7 +18,9 @@
         {% endfor %} -->
     </div><div style="display: inline-block; width: 35%; vertical-align: top;">
         <!-- Embeded video -->
+        {% if include.paper.yt-id %}
         {% capture youtube-id %}{{include.paper.yt-id}}{% endcapture %}
         {% include video id=youtube-id provider="youtube" %}
+        {% endif %}
     </div>
 </div>
