@@ -1,11 +1,11 @@
 <div style="margin-bottom: 20px;">
     <div style="display: inline-block; width: 65%; vertical-align: top;">
-        <a href="{{ include.paper.pdf }}">
+        <a href="{{ include.paper.pdf | relative_url }}">
             {{ include.paper.title }}
         </a>
         <br>
         <!-- PDF -->
-        <a href="{{include.paper.pdf}}">
+        <a href="{{include.paper.pdf  | relative_url }}">
             <img src="https://img.shields.io/badge/-PDF-blue?logo=adobeacrobatreader&labelColor=grey"></a>
         <!-- Video -->
         <a href="{{include.paper.video}}">
