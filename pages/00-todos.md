@@ -7,8 +7,8 @@ toc: false
 
 ## Pre-merge TODOs
 
-- [ ] Update the video links for 2023
-- [ ] Update the location of PDFs
+- [x] Update the video links for 2023
+- [x] Update the location of PDFs
 
 ## TODO
 
@@ -16,3 +16,4 @@ toc: false
     That would give us proper arxiving
 - [ ] All videos on YouTube
 - [ ] Polish the paper listing layout
+- [ ] Unify the keynote vs paper displays
