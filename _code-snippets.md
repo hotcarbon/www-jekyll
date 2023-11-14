@@ -4,6 +4,13 @@
 {% bibliography --max 3 --sort %}
 <br>
 
+
+  <!-- Embeded video -->
+  {% if include.paper.yt-id %}
+  {% capture youtube-id %}{{include.paper.yt-id}}{% endcapture %}
+  {% include video id=youtube-id provider="youtube" %}
+  {% endif %}
+
 # Latest News
 <ul class="post-list">
   {% for post in site.posts limit:1 %}

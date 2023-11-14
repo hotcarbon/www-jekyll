@@ -4,23 +4,20 @@
             {{ include.paper.title }}
         </a>
         <br>
-        <!-- PDF -->
-        <a href="{{include.paper.pdf  | relative_url }}">
-            <img src="https://img.shields.io/badge/-PDF-blue?logo=adobeacrobatreader&labelColor=grey"></a>
-        <!-- Video -->
-        <a href="{{include.paper.video}}">
-            <img src="https://img.shields.io/badge/-Video-red?logo=youtube&labelColor=grey"></a>
-        <br>
         {{include.paper.authors | markdownify }}
         <!-- Authors -->
         <!-- {% for author in paper.authors %}
         {{author.name}} ({{author.affiliation}})
         {% endfor %} -->
-    </div><div style="display: inline-block; width: 35%; vertical-align: top;">
-        <!-- Embeded video -->
-        {% if include.paper.yt-id %}
-        {% capture youtube-id %}{{include.paper.yt-id}}{% endcapture %}
-        {% include video id=youtube-id provider="youtube" %}
-        {% endif %}
+    </div><div style="display: inline-block; width: 10%; vertical-align: top;">
+    </div><div style="display: inline-block; width: 25%; vertical-align: top;">
+        <!-- PDF -->
+        <a href="{{include.paper.pdf  | relative_url }}">
+            <img src="https://img.shields.io/badge/-PDF-blue?logo=adobeacrobatreader&labelColor=grey"></a>
+        <!-- Video -->
+        <br>
+        <a href="{{include.paper.video}}">
+            <img src="https://img.shields.io/badge/-Video-red?logo=youtube&labelColor=grey"></a>
+        <br>
     </div>
 </div>
