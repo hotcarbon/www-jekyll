@@ -1,13 +1,13 @@
 name: Publishing website updates
 
-permissions:
-  contents: read
-  pages: write
-
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: read
+  pages: write
 
 jobs:
   jekyll:
