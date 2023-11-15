@@ -17,3 +17,4 @@ toc: false
 - [ ] All videos on YouTube
 - [ ] Polish the paper listing layout
 - [ ] Unify the keynote vs paper displays
+- [ ] Add contact info from the chairs
