@@ -332,5 +332,5 @@ defaults:
       toc_icon: "book-reader"  # corresponding Font Awesome icon name (without fa prefix)
       sidebar:
         - title: "Upcoming Edition"
-          text: "- Date: July 9, 2024 \n - Location: Santa Clara, CA \n - Deadline: \n **May 8, 2024 (AoE)** \n - Notifications: June 12, 2024"
+          text: "- Date: Tue. July 9, 2024 \n - Location: Santa Clara, CA \n - Deadline: \n **May 8, 2024 (AoE)** \n - Notifications: June 12, 2024"
         - nav: side-nav
