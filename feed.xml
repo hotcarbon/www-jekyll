@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HotCarbon</title>
+		<description>Workshop on Sustainable Computer Systems</description>
+		<link>https://hotcarbon.org/</link>
+		<atom:link href="https://hotcarbon.org//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>HotCarbon'24 CfP is out!</title>
+				<description>&lt;p&gt;HotCarbon will be back in 2024! Submission deadline is &lt;strong&gt;May 8, 2024.&lt;/strong&gt;&lt;br /&gt;
+Check out the &lt;a href=&quot;/cfp&quot;&gt;Call for Papers&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//news/2023/11/13/cfpOut.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//news/2023/11/13/cfpOut.html</guid>
+			</item>
+		
+			<item>
+				<title>A fresh look for HotCarbon</title>
+				<description>&lt;p&gt;We are happy to present the redesigned HotCarbon website.&lt;br /&gt;
+You will find here all updates and info for the workshop’s upcoming edition(s) and the &lt;a href=&quot;/past&quot;&gt;papers and talks from the previous editions&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2023/11/10/new-website.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2023/11/10/new-website.html</guid>
+			</item>
+		
+	</channel>
+</rss>
