@@ -7,8 +7,10 @@ toc: false
 
 ## Steering Committee
 
+- George Porter, UC San Diego
 - Tom Anderson, University of Washington
-- George Porter, UCSD
+- Colleen Josephson, UC Santa Cruz
+- Carole-Jean Wu, Meta AI
 
 ## Publicity Chair
 
