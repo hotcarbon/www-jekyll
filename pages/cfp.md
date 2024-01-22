@@ -79,11 +79,16 @@ This workshop will adhere to the [ACM Code of Ethics](https://www.acm.org/code-o
 ### Chairs
 
 - Simon Peter, _University of Washington_
-- Esha Choukse, _Microsoft_
+- Esha Choukse, _Microsoft Research_
 
 ### Committee
 
-To be announced.
+- Udit Gupta, _Cornell_
+- Timo Hoenig, _RUB_
+- Eun Kyung Lee, _IBM_
+- Bobbie Manne, _AMD Research_
+- Akshitha Sriraman, _CMU_
+- Karin Strauss, _Microsoft Research_
 
 ## Contact
 
