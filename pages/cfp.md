@@ -4,7 +4,8 @@ permalink: /cfp
 
 # Call for Papers
 
-This workshop will be in a hybrid format, with both in-person and remote participation allowed.
+This workshop will be in a hybrid format, with both in-person and remote participation allowed.  
+See [Policies](#policies) for important information regarding remote participation.
 {: .notice--primary}
 
 ## Dates and location
@@ -73,6 +74,8 @@ All submissions must be received by the deadline listed below, which is a hard d
 Revised versions of all accepted papers will be available **open-access** on the workshop's website, along with slides of the presentation and, in some cases, a discussion summary.
 
 This workshop will adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethics).
+
+HotCarbon is **designed primarily as an in-person workshop**, but **with optional remote attendance**. We believe that in-person attendance is essential to the discussion and interaction that is expected of a workshop. At the same time, we recognize that authors may have issues with the carbon footprint of the required travel, obtaining visas, or have other obstacles to in-person attendance. To support such cases, we accept submissions that do not intend to attend the workshop in-person. In these cases, we ask authors of accepted submissions to record a presentation video. We will make every effort to discuss such submissions at the workshop, but we reserve the right to release the publication and associated video direct-to-proceedings to allow for more interactive discussion of in-person presentations if necessary.
 
 ## Program Committee
 
