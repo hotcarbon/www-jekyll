@@ -12,7 +12,8 @@ See [Policies](#policies) for important information regarding remote participati
 
 - Date: Tue. July 9, 2024  
 _Immediately before OSDI 2024_
-- Location: Santa Clara, CA
+- Location: ~~Santa Clara~~ Santa Cruz, CA
+- **[NEW]** Paper registration Deadline: May 5, 2024 (AoE)
 - Submission Deadline: May 8, 2024 (AoE)
 - Notifications: June 12, 2024
 
@@ -63,7 +64,7 @@ This year, we are broadening the scope to also include research on **systems iss
 
 ## Policies
 
-Research and position paper submissions must be no longer than five pages, including figures and tables, plus as many pages as needed for references. Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon'24, July 9, 2024, Santa Clara, CA`.
+Research and position paper submissions must be no longer than five pages, including figures and tables, plus as many pages as needed for references. Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon'24, July 9, 2024, Santa Cruz, CA`.
 
 Submissions will be **double-blind**. The title and an abstract should appear on the first page; author names should not. Authors must make a good-faith effort to anonymize their submissions, and they should not identify themselves either explicitly or by implication (e.g., through references or acknowledgments).
 
@@ -97,6 +98,6 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 
 You can contact the program chairs at [hotcarbon24chairs@googlegroups.com](mailto:hotcarbon24chairs@googlegroups.com).
 
-## Submission form
+## Submission forum
 
-To be added.
+[hotcarbon24.hotcrp.com](https://hotcarbon24.hotcrp.com/)
