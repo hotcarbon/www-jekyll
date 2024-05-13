@@ -87,12 +87,20 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 
 ### Committee
 
-- Udit Gupta, _Cornell_
-- Timo Hoenig, _RUB_
-- Eun Kyung Lee, _IBM_
-- Bobbie Manne, _AMD Research_
 - Akshitha Sriraman, _CMU_
+- Asaf Cidon, _Columbia University_
+- Ben Pfaff, _Feldera_
+- Bobbie Manne, _AMD Research_
+- Colleen Josephson, _UC Santa Cruz_
+- Eun Kyung Lee, _IBM_
 - Karin Strauss, _Microsoft Research_
+- Mosharaf Chowdhury, _University of Michigan_
+- Prashant Shenoy, _University of Massachusetts Amherst_
+- Romain Jacob, _ETH Zurich_
+- Thomas Anderson, _University of Washington_
+- Timo Hoenig, _RUB_
+- Udit Gupta, _Cornell_
+
 
 ## Contact
 
