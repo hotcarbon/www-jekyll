@@ -101,7 +101,6 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Timo Hoenig, _RUB_
 - Udit Gupta, _Cornell_
 
-
 ## Contact
 
 You can contact the program chairs at [hotcarbon24chairs@googlegroups.com](mailto:hotcarbon24chairs@googlegroups.com).
