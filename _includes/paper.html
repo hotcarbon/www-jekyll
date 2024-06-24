@@ -1,14 +1,20 @@
 <div style="margin-bottom: 20px;">
+    {%if include.paper.pdf%}
     <div style="display: inline-block; width: 65%; vertical-align: top;">
         <a href="{{ include.paper.pdf | relative_url }}">
-            {{ include.paper.title }}
+            <strong>{{ include.paper.title }}</strong>
         </a>
         <br>
-        {{include.paper.authors | markdownify }}
         <!-- Authors -->
-        <!-- {% for author in paper.authors %}
-        {{author.name}} ({{author.affiliation}})
-        {% endfor %} -->
+        {%if include.paper.authors%}
+        {{include.paper.authors | markdownify }}
+        {%endif%}
+        {%if include.paper.author-list%}
+            <ul>
+            {% for author in include.paper.author-list %}
+                <li>{{author}}</li>{% endfor %}
+            </ul>
+        {%endif%}
     </div><div style="display: inline-block; width: 10%; vertical-align: top;">
     </div><div style="display: inline-block; width: 25%; vertical-align: top;">
         <!-- PDF -->
@@ -16,8 +22,27 @@
             <img src="/assets/images/-PDF-blue.svg"></a>
         <!-- Video -->
         <br>
+        {%if include.paper.video%}
         <a href="{{include.paper.video}}">
             <img src="/assets/images/-Video-red.svg"></a>
+        {%endif%}
         <br>
     </div>
+    {%else%}
+    <div style="display: inline-block; width: 100%; vertical-align: top;">
+        <strong>{{ include.paper.title }}</strong>
+        <br>
+        <!-- Authors -->
+        {%if include.paper.authors%}
+        {{include.paper.authors | markdownify }}
+        {%endif%}
+        {%if include.paper.author-list%}
+            <ul>
+            {% for author in include.paper.author-list %}
+                <li>{{author}}</li>{% endfor %}
+            </ul>
+        {%endif%}
+    </div>
+    {%endif%}
 </div>
+
