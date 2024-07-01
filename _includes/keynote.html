@@ -1,14 +1,15 @@
 <div style="margin-bottom: 20px;">
     <div style="display: inline-block; width: 65%; vertical-align: top;">
-        {{ include.keynote.title }}
-        <br>
+        <!-- {{ include.keynote.title }} -->
+        <!-- <br> -->
         <!-- Authors -->
         {{include.keynote.authors | markdownify }}
-        <br>
     </div><div style="display: inline-block; width: 10%; vertical-align: top;">
     </div><div style="display: inline-block; width: 25%; vertical-align: top;">
+    {%if include.keynote.video%}
     <a href="{{include.keynote.video}}">
         <img src="/assets/images/-Video-red.svg"></a>
+    {%endif%}
     </div>
     <!-- Abstract -->
     <blockquote>{{include.keynote.abstract | markdownify }}</blockquote>
