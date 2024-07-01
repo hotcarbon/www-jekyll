@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HotCarbon</title>
+		<description>Workshop on Sustainable Computer Systems</description>
+		<link>https://hotcarbon.org/</link>
+		<atom:link href="https://hotcarbon.org//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Registration is now open!</title>
+				<description>&lt;p&gt;The &lt;a href=&quot;https://www.eventbrite.com/e/hotcarbon-2024-workshop-tickets-908373277927]&quot;&gt;workshop registration&lt;/a&gt; is now open.&lt;br /&gt;
+You can find further details about attending the event on &lt;a href=&quot;/register&quot;&gt;the corresponding page&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2024/06/12/registration.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2024/06/12/registration.html</guid>
+			</item>
+		
+			<item>
+				<title>Change in location</title>
+				<description>&lt;p&gt;The workshop location is &lt;strong&gt;changed&lt;/strong&gt; from Santa Clara to Santa Cruz, CA.&lt;br /&gt;
+It will be held in &lt;a href=&quot;https://cowellhaybarn.ucsc.edu/&quot;&gt;UCSC Haybarn&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2024/04/14/locationChange.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2024/04/14/locationChange.html</guid>
+			</item>
+		
+			<item>
+				<title>[NEW] Registration deadline</title>
+				<description>&lt;p&gt;There is now a paper registration deadline, set to May 5, 2024 (AoE).&lt;/p&gt;
+</description>
+				<pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2024/04/13/linkupAndRegistrationDeadline.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2024/04/13/linkupAndRegistrationDeadline.html</guid>
+			</item>
+		
+			<item>
+				<title>Important updates on remote participation</title>
+				<description>&lt;p&gt;See the &lt;a href=&quot;/cfp#policies&quot;&gt;Policies section&lt;/a&gt; of the CfP for important updates on remote participation to HotCarbon’24.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2024/02/11/remoteparticipation.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2024/02/11/remoteparticipation.html</guid>
+			</item>
+		
+			<item>
+				<title>HotCarbon'24 CfP is out!</title>
+				<description>&lt;p&gt;HotCarbon will be back in 2024! Submission deadline is &lt;strong&gt;May 8, 2024.&lt;/strong&gt;&lt;br /&gt;
+Check out the &lt;a href=&quot;/cfp&quot;&gt;Call for Papers&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//news/2023/11/13/cfpOut.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//news/2023/11/13/cfpOut.html</guid>
+			</item>
+		
+			<item>
+				<title>A fresh look for HotCarbon</title>
+				<description>&lt;p&gt;We are happy to present the redesigned HotCarbon website.&lt;br /&gt;
+You will find here all updates and info for the workshop’s upcoming edition(s) and the &lt;a href=&quot;/past&quot;&gt;papers and talks from the previous editions&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2023/11/10/new-website.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2023/11/10/new-website.html</guid>
+			</item>
+		
+	</channel>
+</rss>
