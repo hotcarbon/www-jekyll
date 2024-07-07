@@ -9,9 +9,6 @@ permalink: /program
 {% assign sessions = site.data.program.y2024.sessions%}
 {% assign keynote = site.data.program.y2024.keynote%}
 
-This is a **draft** program. The final version may still be adapted.
-{: .notice--primary}
-
 ## Workshop opening and awards
 
 8:20 -- 8:30 (10min)
