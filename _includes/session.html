@@ -1,5 +1,16 @@
 
 {% assign session_papers = include.papers | where:"session",include.session %}
+{% assign session = include.session %}
+
+
+{%if session.chair%}
+Chair: {{session.chair}}
+{%endif%}
+
+{%if session.note%}
+{{session.note}}
+{: .notice--primary}
+{%endif%}
 
 {% for paper in session_papers %}
 {% include paper.html paper=paper %}
