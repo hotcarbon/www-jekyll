@@ -230,7 +230,7 @@ papers:
     - Ayse K. Coskun (Boston University)
   pdf: "/assets/2024/pdf/hotcarbon24-final42.pdf"
   # video: ""
-  slides: 
+  slides: "/assets/2024/pdf/slides-42.pdf"
   session: 3
 - title: "EMPower: The Case for a Cloud Power Control Plane"
   author-list:
@@ -349,7 +349,7 @@ papers:
     - Richard Mortier (University of Cambridge)
   pdf: "/assets/2024/pdf/hotcarbon24-final30.pdf"
   video: "https://youtu.be/-fs1IBe5CTc"
-  slides: 
+  slides: "/assets/2024/pdf/slides-30.pdf"
   session: 99
 - title: "Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity"
   author-list:
