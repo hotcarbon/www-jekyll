@@ -3,57 +3,70 @@ sessions:
   title:  Coffee break
   start: '9:30'
   stop: '9:45'
-  duration: 15min
+  duration: 15min  
+  show: False
   chair: 
 - id: 1
   title:  Carbon-Aware Computing and Data Centers
   start: '9:45'
   stop: '11:00'
-  duration: 75min
+  duration: 75min  
+  show: True
   chair: Simon Peter (UW)
 - id: 
   title:  Coffee break
   start: '11:00'
   stop: '11:15'
-  duration: 15min
+  duration: 15min  
+  show: False
   chair: 
 - id: 2
   title:  Sustainable AI and Streaming
   start: '11:15'
   stop: '12:15'
-  duration: 60min
+  duration: 60min  
+  show: True
   chair: Esha Choukse (Microsoft)
 - id: 
   title:  Lunch
   start: '12:15'
   stop: '1:30'
-  duration: 75min
+  duration: 75min  
+  show: False
   chair: 
 - id: 3
   title:  Energy and Power
   start: '1:30'
   stop: '2:45'
-  duration: 75min
+  duration: 75min  
+  show: True
   chair: Timo Hoenig (RUB)
 - id: 
   title:  Coffee break
   start: '2:45'
   stop: '3:15'
-  duration: 30min
+  duration: 30min  
+  show: False
   chair: 
 - id: 4
   title: Sustainable Hardware and Cloud Services
   start: '3:15'
   stop: '4:15'
-  duration: 75min
+  duration: 75min  
+  show: True
   chair: George Porter (UCSD)
 - id: 5
   title:  Open Discussion
   start: '4:15'
   stop: '5:00'
-  duration: 45min
+  duration: 45min  
+  show: True
   chair: Simon Peter (UW) and Esha Choukse (Microsoft)
   note: "Topics TBD during the workshop."
+- id: 99
+  title: Online Program
+  show: True
+  note: "Papers in the online program will **not** be presented during the workshop's live event."
 
   
 

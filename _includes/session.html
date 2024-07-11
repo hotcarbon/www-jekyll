@@ -3,15 +3,27 @@
 {% assign session = include.session %}
 
 
+{%if session.show%}
+{%if session.id and session.id != 99%}
+## Session {{session.id}}: {{session.title}}
+{%else%}
+## {{session.title}}
+{%endif%}
+
+<!-- {{session.start}} -- {{session.stop}} ({{session.duration}})
+{: .notice} -->
+
 {%if session.chair%}
 Chair: {{session.chair}}
 {%endif%}
 
-{%if session.note%}
+<!-- {%if session.note%}
 {{session.note}}
 {: .notice--primary}
-{%endif%}
+{%endif%} -->
 
 {% for paper in session_papers %}
 {% include paper.html paper=paper %}
 {% endfor %}
+{%endif%}
+

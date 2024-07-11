@@ -36,23 +36,11 @@ A Sleep Study for ISP Networks: Evaluating Link Sleeping on Real World Data
 
 <!-- Paper sessions -->
 {% for session in sessions %}
-{%if session.id%}
-## Session {{session.id}}: {{session.title}}
-{%else%}
-<!-- ## {{session.title}} -->
-{%endif%}
-
-<!-- {{session.start}} -- {{session.stop}} ({{session.duration}})
-{: .notice} -->
 
 {% assign curr_session = session.id%}
 {% include session.html session=curr_session papers=papers%}
 {% endfor %}
 
 <!-- Online papers -->
-## Online program
 
-Papers in the online program will **not** be presented during the workshop's live event.
-{: .notice--primary}
-
-{% include session.html session=99 papers=papers%}
+<!-- {% include session.html session=99 papers=papers%} -->
