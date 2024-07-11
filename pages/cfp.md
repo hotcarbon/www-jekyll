@@ -4,6 +4,11 @@ permalink: /cfp
 
 # Call for Papers
 
+2024 data; Stay tuned for updates!
+{: .notice--warning}
+
+---
+
 This workshop will be in a hybrid format, with both in-person and remote participation allowed.  
 See [Policies](#policies) for important information regarding remote participation.
 {: .notice--primary}

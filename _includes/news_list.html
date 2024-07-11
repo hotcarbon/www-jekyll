@@ -1,12 +1,8 @@
-<div>
-    {% for post in site.posts limit:include.n-item %}
-    <div class="notice">
-    <div style="display: inline-block; width: 25%; vertical-align: top;">
-        {{ post.date | date: "%b. %-d, %Y" }}
-    </div><div style="display: inline-block; width: 75%; vertical-align: top;">
-        <strong>{{ post.title }}</strong>
-        <br>
-        {{ post.content }}
-    </div></div>
-    {% endfor %}
+{% for post in site.posts limit:include.n-item %}
+<div class="notice" markdown="1">
+#### {{ post.title }}
+{{ post.date | date: "%b. %-d, %Y" }}
+
+{{ post.content }}
 </div>
+{% endfor %}

@@ -1,4 +1,17 @@
 
+# News list
+{% for post in site.posts limit:include.n-item %}
+<div class="notice">  
+<!-- <div style="display: inline-block; width: 25%; vertical-align: top;"> -->
+    <p>{{ post.date | date: "%b. %-d, %Y" }}</p>
+<!-- </div><div style="display: inline-block; width: 75%; vertical-align: top;"> -->
+    <p><strong>{{ post.title }}</strong></p>
+    {{ post.content }}
+</div>
+<!-- </div> -->
+{% endfor %}
+
+
 ## List of provisionally accepted papers
 
 <!-- Load all papers -->

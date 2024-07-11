@@ -4,6 +4,11 @@ permalink: /register
 
 # Attend
 
+2024 data; Stay tuned for updates!
+{: .notice--warning}
+
+---
+
 ## Location
 
 Workshop location: [UCSC Hay Barn](https://cowellhaybarn.ucsc.edu/)

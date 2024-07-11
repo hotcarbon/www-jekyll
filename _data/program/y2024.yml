@@ -63,6 +63,7 @@ keynote:
   start: '8:30'
   stop: '9:30'
   duration: 60min
+  slides: 
   video: 
   yt-id: 
   abstract: "Computing has a substantial environmental impact, with far-reaching consequences. Information and Communication Technologies (ICT) alone contribute to 4% of global carbon emissions, equivalent to the aviation industry's carbon footprint. This impact is poised to increase as the demand for computing continues to surge, particularly at the edge and within massive hyperscale data centers.  
@@ -78,6 +79,7 @@ papers:
     - Andrew A. Chien (University of Chicago)
   pdf: "/assets/2024/pdf/hotcarbon24-final61.pdf"
   # video: ""
+  slides: 
   session: 1
 - title: "Data-driven Algorithm Selection for Carbon-Aware Scheduling"
   author-list:
@@ -89,6 +91,7 @@ papers:
     - Mohammad Hajiesmaili (University of Massachusetts Amherst)
   pdf: "/assets/2024/pdf/hotcarbon24-final23.pdf"
   # video: ""
+  slides: 
   session: 1
 - title: "A Call for Research on Storage Emissions"
   author-list:
@@ -105,6 +108,7 @@ papers:
     - Gregory R. Ganger (Carnegie Mellon University)
   pdf: "/assets/2024/pdf/hotcarbon24-final126.pdf"
   # video: ""
+  slides: 
   session: 1
 - title: "Uncertainty-Aware Decarbonization for Datacenters"
   author-list:
@@ -113,6 +117,7 @@ papers:
     - Yi Ding (Purdue University)
   pdf: "/assets/2024/pdf/hotcarbon24-final84.pdf"
   # video: ""
+  slides: 
   session: 1
 - title: "Geographical Server Relocation: Opportunities and Challenges"
   author-list:
@@ -122,6 +127,7 @@ papers:
     - Shaolei Ren (UC Riverside)
   pdf: "/assets/2024/pdf/hotcarbon24-final20.pdf"
   # video: ""
+  slides: 
   session: 1
 
 
@@ -144,6 +150,7 @@ papers:
     - Sihang Liu (University of Waterloo)
   pdf: "/assets/2024/pdf/hotcarbon24-final3.pdf"
   # video: ""
+  slides: "/assets/2024/pdf/slides-3.pdf"
   session: 2
 - title: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
   author-list:
@@ -152,6 +159,7 @@ papers:
     - Devesh Tiwari (Northeastern University)
   pdf: "/assets/2024/pdf/hotcarbon24-final80.pdf"
   # video: ""
+  slides: 
   session: 2
 - title: "Towards Carbon-efficient LLM Life Cycle"
   author-list:
@@ -160,6 +168,7 @@ papers:
     - Omer Graif (Cornell University)
   pdf: "/assets/2024/pdf/hotcarbon24-final154.pdf"
   # video: ""
+  slides: 
   session: 2
 - title: "Streaming the future of sustainability"
   author-list:
@@ -167,6 +176,7 @@ papers:
     - Alex Conway (Cornell Tech)
   pdf: "/assets/2024/pdf/hotcarbon24-final81.pdf"
   # video: ""
+  slides: 
   session: 2
 
 
@@ -187,6 +197,7 @@ papers:
     - Asaf Cidon (Columbia University)
   pdf: "/assets/2024/pdf/hotcarbon24-final29.pdf"
   # video: ""
+  slides: 
   session: 3
 - title: "A Sleep Study for ISP Networks: Evaluating Link Sleeping on Real World Data"
   author-list:
@@ -195,7 +206,9 @@ papers:
     - Laurent Vanbever (ETH Zürich)
   pdf: "/assets/2024/pdf/hotcarbon24-final58.pdf"
   # video: ""
+  slides: https://nsg.ee.ethz.ch/files/public/slides/2024-07-09-a-sleep-study-for-isp-networks-evaluating-link-sleeping-on-real-world-data_1.pdf
   session: 3
+  award: Best Paper Award
 - title: "Learning a Data Center Model for Efficient Demand Response"
   author-list:
     - Quentin Clark (Boston University)
@@ -204,6 +217,7 @@ papers:
     - Ayse K. Coskun (Boston University)
   pdf: "/assets/2024/pdf/hotcarbon24-final42.pdf"
   # video: ""
+  slides: 
   session: 3
 - title: "EMPower: The Case for a Cloud Power Control Plane"
   author-list:
@@ -213,6 +227,7 @@ papers:
     - Thomas Anderson (University of Washington)
   pdf: "/assets/2024/pdf/hotcarbon24-final57.pdf"
   # video: ""
+  slides: 
   session: 3
 - title: "Proactive Energy Management in Database Systems"
   author-list:
@@ -221,6 +236,7 @@ papers:
     - Kazuo Goda (The University of Tokyo)
   pdf: "/assets/2024/pdf/hotcarbon24-final111.pdf"
   # video: ""
+  slides: 
   session: 3
 
 
@@ -244,6 +260,7 @@ papers:
     - Hank Levy (Google and University of Washington)
   pdf: "/assets/2024/pdf/hotcarbon24-final22.pdf"
   # video: ""
+  slides: 
   session: 4
 - title: "Bridging the Sustainability Gap in Serverless through Observability and Carbon-Aware Pricing"
   author-list:
@@ -251,6 +268,7 @@ papers:
     - Mohammad Shahrad (University of British Columbia)
   pdf: "/assets/2024/pdf/hotcarbon24-final164.pdf"
   # video: ""
+  slides: 
   session: 4
 - title: "Understanding the Implications of Uncertainty in Embodied Carbon Models for Sustainable Computing"
   author-list:
@@ -259,6 +277,7 @@ papers:
     - Udit Gupta (Cornell University)
   pdf: "/assets/2024/pdf/hotcarbon24-final146.pdf"
   # video: ""
+  slides: 
   session: 4
 - title: "Towards Game-Theoretic Approaches to Attributing Carbon in Cloud Data Centers"
   author-list:
@@ -268,6 +287,7 @@ papers:
     - Udit Gupta (Cornell)
   pdf: "/assets/2024/pdf/hotcarbon24-final7.pdf"
   # video: ""
+  slides: 
   session: 4
 
 
@@ -296,6 +316,7 @@ papers:
     - Peter Wägemann (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))
   pdf: "/assets/2024/pdf/hotcarbon24-final69.pdf"
   video: "https://youtu.be/gcV-DWsB5pc"
+  slides: 
   session: 99
 - title: "Vessim: A Testbed for Carbon-Aware Applications and Systems"
   author-list:
@@ -306,6 +327,7 @@ papers:
     - Odej Kao (Technische Universität Berlin)
   pdf: "/assets/2024/pdf/hotcarbon24-final85.pdf"
   video: "https://youtu.be/VCTTT_GuVgw"
+  slides: 
   session: 99
 - title: "Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems"
   author-list:
@@ -314,6 +336,7 @@ papers:
     - Richard Mortier (University of Cambridge)
   pdf: "/assets/2024/pdf/hotcarbon24-final30.pdf"
   video: "https://youtu.be/-fs1IBe5CTc"
+  slides: 
   session: 99
 - title: "Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity"
   author-list:
@@ -321,6 +344,7 @@ papers:
     - Verena Majuntke (HTW Berlin)
   pdf: "/assets/2024/pdf/hotcarbon24-final109.pdf"
   video: "https://youtu.be/BOHKSK8GFYg"
+  slides: 
   session: 99
 - title: "BoaviztAPI: A Bottom-Up Model to Assess the Environmental Impacts of Cloud Services"
   author-list:
@@ -332,6 +356,7 @@ papers:
     - Romain Rouvoy (Univ. Lille, Inria, CNRS, UMR 9189 CRIStAL)
   pdf: "/assets/2024/pdf/hotcarbon24-final74.pdf"
   video: "https://youtu.be/82_tMI6CoCU"
+  slides: https://thibaultsimon.fr/presentations/hotcarbon/index.html#/
   session: 99
 - title: "Understanding and Mitigating Webpage Data Bloat: Causes and Preventive Measures"
   author-list:
@@ -341,6 +366,7 @@ papers:
     - Jukka Manner (Aalto University)
   pdf: "/assets/2024/pdf/hotcarbon24-final120.pdf"
   video: "https://youtu.be/OoptE2vspsg"
+  slides: 
   session: 99
 
 

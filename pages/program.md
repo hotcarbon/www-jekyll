@@ -9,26 +9,28 @@ permalink: /program
 {% assign sessions = site.data.program.y2024.sessions%}
 {% assign keynote = site.data.program.y2024.keynote%}
 
-Workshop location: [UCSC Hay Barn](https://cowellhaybarn.ucsc.edu/).  
+<!-- Workshop location: [UCSC Hay Barn](https://cowellhaybarn.ucsc.edu/).  
 See the [registration page](/register) for details.
-{: .notice--primary}
+{: .notice--primary} -->
 
 
-## Breakfast
+<!-- ## Breakfast -->
 
-7:30 -- 8:20 (50min)
-{: .notice}
+<!-- 7:30 -- 8:20 (50min)
+{: .notice} -->
 
 ## Workshop opening and awards
 
-8:20 -- 8:30 (10min)
+<!-- 8:20 -- 8:30 (10min) -->
+<i class="fa-solid fa-award" style="margin-right:0.75em;"></i>**Best Paper Award**  
+A Sleep Study for ISP Networks: Evaluating Link Sleeping on Real World Data
 {: .notice}
 
 <!-- Keynote -->
 ## Keynote: {{keynote.title}}
 
-{{keynote.start}} -- {{keynote.stop}} ({{keynote.duration}})
-{: .notice}
+<!-- {{keynote.start}} -- {{keynote.stop}} ({{keynote.duration}}) -->
+<!-- {: .notice} -->
 
 {% include keynote.html keynote=keynote %}
 
@@ -37,11 +39,11 @@ See the [registration page](/register) for details.
 {%if session.id%}
 ## Session {{session.id}}: {{session.title}}
 {%else%}
-## {{session.title}}
+<!-- ## {{session.title}} -->
 {%endif%}
 
-{{session.start}} -- {{session.stop}} ({{session.duration}})
-{: .notice}
+<!-- {{session.start}} -- {{session.stop}} ({{session.duration}})
+{: .notice} -->
 
 {% assign curr_session = session.id%}
 {% include session.html session=curr_session papers=papers%}

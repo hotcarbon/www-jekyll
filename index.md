@@ -3,7 +3,7 @@ toc: false
 classes: wide
 ---
 
-# HotCarbon  <br> Workshop on Sustainable Computer Systems
+# HotCarbon Workshop on <br>Sustainable Computer Systems
 
 HotCarbon aims to bring together researchers and practitioners in computer and networked systems to engage in a lively discussion around sustainability throughout the entire computing lifecycle, focusing on both the operational and embodied impact of computer systems.
 

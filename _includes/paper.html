@@ -1,10 +1,13 @@
 <div style="margin-bottom: 20px;">
     {%if include.paper.pdf%}
     <div style="display: inline-block; width: 65%; vertical-align: top;">
-        <a href="{{ include.paper.pdf | relative_url }}">
+        <p><a href="{{ include.paper.pdf | relative_url }}">
             <strong>{{ include.paper.title }}</strong>
-        </a>
-        <br>
+        </a></p>
+        <!-- Award -->
+        {%if include.paper.award%}
+        <p class="notice--primary"><i class="fa-solid fa-award" style="margin-right:0.75em;"></i>{{include.paper.award}}</p>
+        {%endif%}
         <!-- Authors -->
         {%if include.paper.authors%}
         {{include.paper.authors | markdownify }}
@@ -21,12 +24,16 @@
         <a href="{{include.paper.pdf  | relative_url }}">
             <img src="/assets/images/-PDF-blue.svg"></a>
         <!-- Video -->
-        <br>
         {%if include.paper.video%}
+        <br>
         <a href="{{include.paper.video}}">
             <img src="/assets/images/-Video-red.svg"></a>
         {%endif%}
+        {%if include.paper.slides%}
         <br>
+        <a href="{{include.paper.slides}}">
+            <img src="/assets/images/-Slides-seagreen.svg"></a>
+        {%endif%}
     </div>
     {%else%}
     <div style="display: inline-block; width: 100%; vertical-align: top;">

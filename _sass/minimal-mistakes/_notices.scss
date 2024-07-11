@@ -34,6 +34,7 @@
   }
 
   p {
+    font-size: $type-size-5 !important;
     &:last-child {
       margin-bottom: 0 !important; /* override*/
     }
