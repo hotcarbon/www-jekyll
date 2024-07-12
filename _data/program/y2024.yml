@@ -92,7 +92,7 @@ papers:
     - Andrew A. Chien (University of Chicago)
   pdf: "/assets/2024/pdf/hotcarbon24-final61.pdf"
   # video: ""
-  slides: 
+  slides: "/assets/2024/pdf/slides-61.pdf"
   session: 1
 - title: "Data-driven Algorithm Selection for Carbon-Aware Scheduling"
   author-list:
@@ -290,7 +290,7 @@ papers:
     - Udit Gupta (Cornell University)
   pdf: "/assets/2024/pdf/hotcarbon24-final146.pdf"
   # video: ""
-  slides: 
+  slides: "/assets/2024/pdf/slides-146.pdf"
   session: 4
 - title: "Towards Game-Theoretic Approaches to Attributing Carbon in Cloud Data Centers"
   author-list:
@@ -300,7 +300,7 @@ papers:
     - Udit Gupta (Cornell)
   pdf: "/assets/2024/pdf/hotcarbon24-final7.pdf"
   # video: ""
-  slides: 
+  slides: "/assets/2024/pdf/slides-7.pdf"
   session: 4
 
 
