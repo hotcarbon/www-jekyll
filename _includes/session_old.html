@@ -1,0 +1,4 @@
+{% assign session_papers = include.papers | where:"session",include.session %} 
+{% for paper in session_papers %} 
+{% include paper.html paper=paper %} 
+{% endfor %}
