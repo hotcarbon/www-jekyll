@@ -121,7 +121,7 @@ papers:
     - Gregory R. Ganger (Carnegie Mellon University)
   pdf: "/assets/2024/pdf/hotcarbon24-final126.pdf"
   # video: ""
-  slides: 
+  slides: https://saramcallister.github.io/files/2024-hotcarbon-mcallister-slides.pdf
   session: 1
 - title: "Uncertainty-Aware Decarbonization for Datacenters"
   author-list:
@@ -172,7 +172,7 @@ papers:
     - Devesh Tiwari (Northeastern University)
   pdf: "/assets/2024/pdf/hotcarbon24-final80.pdf"
   # video: ""
-  slides: 
+  slides: "/assets/2024/pdf/slides-80.pdf"
   session: 2
 - title: "Towards Carbon-efficient LLM Life Cycle"
   author-list:
@@ -339,8 +339,8 @@ papers:
     - Marvin Steinke (Technische Universität Berlin)
     - Odej Kao (Technische Universität Berlin)
   pdf: "/assets/2024/pdf/hotcarbon24-final85.pdf"
+  slides: "/assets/2024/pdf/slides-85.pdf"
   video: "https://youtu.be/VCTTT_GuVgw"
-  slides: 
   session: 99
 - title: "Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems"
   author-list:
