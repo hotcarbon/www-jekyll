@@ -130,7 +130,7 @@ papers:
     - Yi Ding (Purdue University)
   pdf: "/assets/2024/pdf/hotcarbon24-final84.pdf"
   # video: ""
-  slides: 
+  slides: "/assets/2024/pdf/slides-84.pdf"
   session: 1
 - title: "Geographical Server Relocation: Opportunities and Challenges"
   author-list:
