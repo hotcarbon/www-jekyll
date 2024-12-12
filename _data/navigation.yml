@@ -16,7 +16,7 @@ side-nav:
     url: /past
     children: 
     - title: 2024
-      url: /program
+      url: /2024
     - title: 2023
       url: /2023
     - title: 2022

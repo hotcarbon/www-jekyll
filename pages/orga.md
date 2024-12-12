@@ -11,6 +11,7 @@ toc: false
 - Tom Anderson, University of Washington
 - Colleen Josephson, UC Santa Cruz
 - Carole-Jean Wu, Meta AI
+- Romain Jacob, ETH Zürich
 
 ## Publicity Chair
 
@@ -18,12 +19,17 @@ toc: false
 
 ## Program Chairs
 
+**2025**
+
+- Timo Hoenig, _RUB_
+- Abel Souza, _UCSC_
+
+Check the [Call for Papers]({{ "/cfp" | relative_url }}) for the complete program committee.
+
 **2024**
 
 - Simon Peter, University of Washington
 - Esha Choukse, Microsoft
-
-Check the [Call for Papers]({{ "/cfp" | relative_url }}) for the complete program committee.
 
 **2023**
 

@@ -4,22 +4,22 @@ permalink: /register
 
 # Attend
 
-2024 data; Stay tuned for updates!
+Stay tuned for updates!
 {: .notice--warning}
 
 ---
 
 ## Location
 
-Workshop location: [UCSC Hay Barn](https://cowellhaybarn.ucsc.edu/)
+Workshop location: [Microsoft New England Research & Development Center (NERD)](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/)
 
-<!-- Detailed location information will follow in due time.
-{: .notice} -->
-
-The HotCarbon venue is a ~1 hr drive from the OSDI hotel (not counting traffic).
+Detailed location information will follow in due time.
 {: .notice}
 
-## Accommodation
+<!-- The HotCarbon venue is a ~1 hr drive from the OSDI hotel (not counting traffic).
+{: .notice} -->
+
+<!-- ## Accommodation
 
 You may consider the following options.
 
@@ -46,4 +46,4 @@ There are also a limited number of ParkMobile spots in the area that people are 
 
 ## Registration
 
-Via [eventbrite](https://www.eventbrite.com/e/hotcarbon-2024-workshop-tickets-908373277927).
+Via [eventbrite](https://www.eventbrite.com/e/hotcarbon-2024-workshop-tickets-908373277927). -->

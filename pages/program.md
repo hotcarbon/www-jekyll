@@ -4,43 +4,6 @@ permalink: /program
 
 # Program
 
-<!-- Load all papers -->
-{% assign papers = site.data.program.y2024.papers%}
-{% assign sessions = site.data.program.y2024.sessions%}
-{% assign keynote = site.data.program.y2024.keynote%}
+Stay tuned for updates!
+{: .notice--warning}
 
-<!-- Workshop location: [UCSC Hay Barn](https://cowellhaybarn.ucsc.edu/).  
-See the [registration page](/register) for details.
-{: .notice--primary} -->
-
-
-<!-- ## Breakfast -->
-
-<!-- 7:30 -- 8:20 (50min)
-{: .notice} -->
-
-## Workshop opening and awards
-
-<!-- 8:20 -- 8:30 (10min) -->
-<i class="fa-solid fa-award" style="margin-right:0.75em;"></i>**Best Paper Award**  
-A Sleep Study for ISP Networks: Evaluating Link Sleeping on Real World Data
-{: .notice}
-
-<!-- Keynote -->
-## Keynote: {{keynote.title}}
-
-<!-- {{keynote.start}} -- {{keynote.stop}} ({{keynote.duration}}) -->
-<!-- {: .notice} -->
-
-{% include keynote.html keynote=keynote %}
-
-<!-- Paper sessions -->
-{% for session in sessions %}
-
-{% assign curr_session = session.id%}
-{% include session.html session=curr_session papers=papers%}
-{% endfor %}
-
-<!-- Online papers -->
-
-<!-- {% include session.html session=99 papers=papers%} -->
