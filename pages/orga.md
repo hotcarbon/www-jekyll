@@ -12,6 +12,7 @@ toc: false
 - Colleen Josephson, UC Santa Cruz
 - Carole-Jean Wu, Meta AI
 - Romain Jacob, ETH Zürich
+- Udit Gupta, Cornell
 
 ## Publicity Chair
 
