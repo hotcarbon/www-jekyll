@@ -4,11 +4,11 @@ permalink: /cfp
 
 # Call for Papers
 
-**2024 data**  
+<!-- **2024 data**  
 Stay tuned for updates!
 {: .notice--warning}
 
----
+--- -->
 
 <!-- This workshop will be in a hybrid format, with both in-person and remote participation allowed.  
 See [Policies](#policies) for important information regarding remote participation.
@@ -16,12 +16,13 @@ See [Policies](#policies) for important information regarding remote participati
 
 ## Dates and location
 
-- Date: Tue. July 9, 2024  
-_Immediately before OSDI 2024_
-- Location: ~~Santa Clara~~ Santa Cruz, CA
-- **[NEW]** Paper registration Deadline: May 5, 2024 (AoE)
-- Submission Deadline: May 8, 2024 (AoE)
-- Notifications: June 12, 2024
+- Date: Thu-Fri. July 10-11, 2025  
+_Immediately after OSDI 2025_
+- Location: Cambridge, MA
+- Paper registration Deadline: May 5, 2025 (AoE)
+- Submission Deadline: May 12, 2025 (AoE)
+- Notifications: June 13, 2025
+
 
 ## Overview
 
