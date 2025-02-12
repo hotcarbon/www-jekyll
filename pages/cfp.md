@@ -89,12 +89,14 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 
 ### Chairs
 
-- Simon Peter, _University of Washington_
-- Esha Choukse, _Microsoft Research_
+- Timo Hoenig, _RUB_
+- Abel Souza, _UC Santa Cruz_
 
 ### Committee
 
-- Akshitha Sriraman, _CMU_
+TBC
+
+<!-- - Akshitha Sriraman, _CMU_
 - Asaf Cidon, _Columbia University_
 - Ben Pfaff, _Feldera_
 - Bobbie Manne, _AMD Research_
@@ -106,12 +108,12 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Romain Jacob, _ETH Zurich_
 - Thomas Anderson, _University of Washington_
 - Timo Hoenig, _RUB_
-- Udit Gupta, _Cornell_
+- Udit Gupta, _Cornell_ -->
 
 ## Contact
 
-You can contact the program chairs at [hotcarbon24chairs@googlegroups.com](mailto:hotcarbon24chairs@googlegroups.com).
+You can contact the program chairs at [hotcarbon25chairs@lists.rub.de](mailto:hotcarbon25chairs@lists.rub.de).
 
-## Submission forum
+<!-- ## Submission forum -->
 
-[hotcarbon24.hotcrp.com](https://hotcarbon24.hotcrp.com/)
+<!-- [hotcarbon24.hotcrp.com](https://hotcarbon24.hotcrp.com/) -->
