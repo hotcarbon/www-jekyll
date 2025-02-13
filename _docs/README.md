@@ -1,20 +1,24 @@
 # Website documentation
 
+> The content below comes from the forked website. It is mostly not relevant for the HotCarbon website.
+
+--- 
+
 This document should contain everything you need to know to make simple updates to the [JSys website](https://www.jsys.org/).
 
 <!-- TOC -->
 
 - [Overview](#overview)
 - [Where to find stuff?](#where-to-find-stuff)
-    - [Pages](#pages)
-    - [Data](#data)
-    - [Papers](#papers)
+  - [Pages](#pages)
+  - [Data](#data)
+  - [Papers](#papers)
 - [How-Tos](#how-tos)
-    - [How to update area board members or CFP data?](#how-to-update-area-board-members-or-cfp-data)
-    - [How to test updates locally?](#how-to-test-updates-locally)
-    - [How to push updates?](#how-to-push-updates)
-    - [How to add newly publish papers?](#how-to-add-newly-publish-papers)
-    - [How to add a page to the navigation menu?](#how-to-add-a-page-to-the-navigation-menu)
+  - [How to update area board members or CFP data?](#how-to-update-area-board-members-or-cfp-data)
+  - [How to test updates locally?](#how-to-test-updates-locally)
+  - [How to push updates?](#how-to-push-updates)
+  - [How to add newly publish papers?](#how-to-add-newly-publish-papers)
+  - [How to add a page to the navigation menu?](#how-to-add-a-page-to-the-navigation-menu)
 
 <!-- /TOC -->
 
