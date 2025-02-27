@@ -71,7 +71,7 @@ is directly relevant.
 
 This year, we are broadening the scope to also include research on **systems issues in sustainable AI**, including those that span the life cycle of AI models, specialized AI systems, data, and ecosystems.
 
-## Submission Policies
+## Policies
 
 Research and position paper submissions must be no longer than five pages, including figures and tables, plus as many pages as needed for references. Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon’25, July 10-11th, 2025, Cambridge, MA.`.
 
@@ -81,8 +81,12 @@ HotCarbon will also feature **panels and events** to inspire discussion of futur
 
 All submissions must be received by the hard deadline listed below. Papers and proposals should be submitted via the web submission [submission form](#submission-form) as PDF files. Please identify your submission type in the form (paper or proposal). Simultaneous submission of the same work to multiple venues, submission of previously published work, or plagiarism constitutes dishonesty or fraud.
 
+Revised versions of all accepted papers will be published in the [ACM Digital Library](https://dl.acm.org). 
 
-Revised versions of all accepted papers will be published in the [ACM Digital Library](https://dl.acm.org). In addition, all accepted papers will be available **open-access** on the workshop’s website, along with slides of the presentation and, in some cases, a discussion summary.
+- By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM's new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
+- Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper.  ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+
+In addition, all accepted papers will be available **open-access** on the workshop’s website, along with slides of the presentation and, in some cases, a discussion summary.
 
 This workshop will adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethics).
 
