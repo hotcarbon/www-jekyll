@@ -7,12 +7,8 @@ permalink: /cfp
 <!-- **2024 data**  
 Stay tuned for updates!
 {: .notice--warning}
-
 --- -->
 
-<!-- This workshop will be in a hybrid format, with both in-person and remote participation allowed.  
-See [Policies](#policies) for important information regarding remote participation.
-{: .notice--primary} -->
 
 ## Dates and location
 
@@ -23,6 +19,9 @@ _Immediately after OSDI 2025_
 - Submission Deadline: May 12, 2025 (AoE)
 - Notifications: June 13, 2025
 
+
+One-page [CfP as PDF (0.2MB)](/assets/2025/HotCarbon25_CfP.pdf)
+{: .notice--primary}
 
 ## Overview
 
