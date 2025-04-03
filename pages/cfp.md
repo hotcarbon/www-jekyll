@@ -111,15 +111,16 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 <!-- - Prashant Shenoy, _University of Massachusetts Amherst_ -->
 - Bilge Acun, _Meta_
 - Gustavo Alonso, _ETH Zurich_
+- Noman Bashir, _MIT_
 - Yi Ding, _Purdue_
 - Geerd-Dietger "Didi" Hoffmann, _Green Coding_
 - Romain Jacob, _ETH Zurich_
 - Fiodar Kazhamiaka, _Microsoft Azure_
+- Simon Peter, _University of Washington_
 - Andreas Schmidt, _Universität des Saarlandes_
+- Jennifer Switzer, _UC Santa San Diego_
 - Paul Townend, _Umea Universitet_
 - Monica Vitalli, _Politecnico di Milano_
-
-TBC
 
 <!-- - Thomas Anderson, _University of Washington_ -->
 <!-- - Timo Hoenig, _RUB_ -->
