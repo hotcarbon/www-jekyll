@@ -120,7 +120,7 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Andreas Schmidt, _Universität des Saarlandes_
 - Jennifer Switzer, _UC Santa San Diego_
 - Paul Townend, _Umea Universitet_
-- Monica Vitalli, _Politecnico di Milano_
+- Monica Vitali, _Politecnico di Milano_
 
 <!-- - Thomas Anderson, _University of Washington_ -->
 <!-- - Timo Hoenig, _RUB_ -->
