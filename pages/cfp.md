@@ -16,7 +16,7 @@ Stay tuned for updates!
 _Immediately after OSDI 2025_
 - Location: Cambridge, MA
 - Paper registration Deadline: May 5, 2025 (AoE)
-- Submission Deadline: May 12, 2025 (AoE)
+- Submission Deadline: May 19, ~~May 12~~ 2025 (AoE)
 - Notifications: June 13, 2025
 
 
@@ -112,10 +112,13 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Bilge Acun, _Meta_
 - Gustavo Alonso, _ETH Zurich_
 - Noman Bashir, _MIT_
+- Frank Bellosa, _KIT_
 - Yi Ding, _Purdue_
+- Rodrigo Fonseca, _Microsoft Azure_
 - Geerd-Dietger "Didi" Hoffmann, _Green Coding_
 - Romain Jacob, _ETH Zurich_
 - Fiodar Kazhamiaka, _Microsoft Azure_
+- Ulrich Kremer, _Rutgers_
 - Simon Peter, _University of Washington_
 - Andreas Schmidt, _Universität des Saarlandes_
 - Jennifer Switzer, _UC Santa San Diego_

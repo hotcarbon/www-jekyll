@@ -333,6 +333,5 @@ defaults:
       sidebar:
         - title: "2025 Edition"
           # text: To be announced
-          text: "- Date: Thu-Fri. July 10-11, 2025 \n - Location: Cambridge, MA
-          \n - Registration: **May 5, 2025 (AoE)** \n - Submission: **May 12, 2025 (AoE)** \n - Notifications: June 13, 2025"
+          text: "- Date: Thu-Fri. July 10-11, 2025 \n - Location: Cambridge, MA\n - Registration: **May 5, 2025 (AoE)** \n - Submission: ~~May 12, 2025 (AoE)~~ **May 19, 2025 (AoE)** \n - Notifications: June 13, 2025"
         - nav: side-nav
