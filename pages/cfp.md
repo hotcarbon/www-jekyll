@@ -109,21 +109,26 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 <!-- - Karin Strauss, _Microsoft Research_ -->
 <!-- - Mosharaf Chowdhury, _University of Michigan_ -->
 <!-- - Prashant Shenoy, _University of Massachusetts Amherst_ -->
-- Bilge Acun, _Meta_
-- Gustavo Alonso, _ETH Zurich_
-- Noman Bashir, _MIT_
-- Frank Bellosa, _KIT_
-- Yi Ding, _Purdue_
-- Rodrigo Fonseca, _Microsoft Azure_
-- Geerd-Dietger "Didi" Hoffmann, _Green Coding_
-- Romain Jacob, _ETH Zurich_
-- Fiodar Kazhamiaka, _Microsoft Azure_
-- Ulrich Kremer, _Rutgers_
-- Simon Peter, _University of Washington_
 - Andreas Schmidt, _Universität des Saarlandes_
+- Bilge Acun, _Meta_
+- Dan Wang, _The Hong Kong Polytechnic University_
+- Dilma Da Silva, _Texas A&M University_
+- Fiodar Kazhamiaka, _Microsoft Azure_
+- Frank Bellosa, _KIT_
+- Geerd-Dietger "Didi" Hoffmann, _Green Coding_
+- Gustavo Alonso, _ETH Zurich_
 - Jennifer Switzer, _UC Santa San Diego_
-- Paul Townend, _Umea Universitet_
+- Mohammad Shahrad, _University of British Columbia	_
 - Monica Vitali, _Politecnico di Milano_
+- Noman Bashir, _MIT_
+- Paul Townend, _Umea Universitet_
+- Rodrigo Fonseca, _Microsoft Azure_
+- Romain Jacob, _ETH Zurich_
+- Simon Peter, _University of Washington_
+- Thomas Anderson, _University of Washington_
+- Ulrich Kremer, _Rutgers_
+- Walid Hanafy, _University of Massachusetts Amherst_
+- Yi Ding, _Purdue_
 
 <!-- - Thomas Anderson, _University of Washington_ -->
 <!-- - Timo Hoenig, _RUB_ -->
