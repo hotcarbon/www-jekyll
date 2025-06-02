@@ -130,10 +130,6 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Walid Hanafy, _University of Massachusetts Amherst_
 - Yi Ding, _Purdue_
 
-<!-- - Thomas Anderson, _University of Washington_ -->
-<!-- - Timo Hoenig, _RUB_ -->
-<!-- - Udit Gupta, _Cornell_ -->
-
 ## Contact
 
 You can contact the program chairs at [hotcarbon25chairs@lists.rub.de](mailto:hotcarbon25chairs@lists.rub.de).
