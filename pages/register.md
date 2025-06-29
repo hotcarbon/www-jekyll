@@ -4,20 +4,25 @@ permalink: /register
 
 # Attend
 
-Stay tuned for updates!
+<!-- Stay tuned for updates!
 {: .notice--warning}
 
----
+--- -->
+
+## Registration
+
+In-person participant must **register before July 7th** to be allowed entry in the workshop building!
+{: .notice--warning}
+
+Registration via [eventbrite](https://www.eventbrite.com/e/hotcarbon-2025-workshop-tickets-1431566557109).
 
 ## Location
 
 Workshop location: [Microsoft New England Research & Development Center (NERD)](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/)
 
-Detailed location information will follow in due time.
-{: .notice}
+Detailed location information will follow very soon.
+<!-- {: .notice} -->
 
-<!-- The HotCarbon venue is a ~1 hr drive from the OSDI hotel (not counting traffic).
-{: .notice} -->
 
 <!-- ## Accommodation
 
@@ -44,6 +49,4 @@ People who arrive __after 9:30__ can still park at the same cost, but they must 
 
 There are also a limited number of ParkMobile spots in the area that people are welcome to use.
 
-## Registration
-
-Via [eventbrite](https://www.eventbrite.com/e/hotcarbon-2024-workshop-tickets-908373277927). -->
+ -->
