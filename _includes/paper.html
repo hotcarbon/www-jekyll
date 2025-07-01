@@ -37,10 +37,10 @@
     </div>
     {%else%}
     <div style="display: inline-block; width: 100%; vertical-align: top;">
-        <strong>{{ include.paper.title }}</strong>
+        <p><strong>{{ include.paper.title }}</strong></p>
+        {%if include.paper.authors%}
         <br>
         <!-- Authors -->
-        {%if include.paper.authors%}
         {{include.paper.authors | markdownify }}
         {%endif%}
         {%if include.paper.author-list%}

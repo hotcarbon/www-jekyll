@@ -1,0 +1,628 @@
+sessions:
+- id: 
+  title:  Welcome & Opening Remarks
+  day: 1
+  start: '9:00'
+  stop: '9:15'
+  duration: 15min  
+  show: True
+  chair: Timo Hoenig (RUB) and Abel Souza (UCSC)
+  note: 
+- id: keynote
+  title:  Keynote 1
+  day: 1
+  start: '9:15'
+  stop: '10:00'
+  duration: 45min  
+  show: True
+  chair: #Timo Hoenig (RUB) and Abel Souza (UCSC)
+  note: 
+- id: 
+  title:  Coffee break
+  day: 1
+  start: '10:00'
+  stop: '10:15'
+  duration: 15min  
+  show: True
+  chair: 
+- id: 1
+  title:  Data Center Sustainability & Thermal Management
+  day: 1
+  start: '10:15'
+  stop: '11:15'
+  duration: 60min  
+  show: True
+  chair: #Simon Peter (UW)
+- id: 2
+  title:  Hardware & Manufacturing Impact
+  day: 1
+  start: '11:20'
+  stop: '12:40'
+  duration: 80min  
+  show: True
+  chair: #Esha Choukse (Microsoft)
+- id: 
+  title:  Lunch
+  day: 1
+  start: '12:40'
+  stop: '1:45'
+  duration: 65min  
+  show: True
+  chair: 
+- id: 3
+  title:  Edge Computing & Distributed Systems
+  day: 1
+  start: '2:00'
+  stop: '3:00'
+  duration: 80min  
+  show: True
+  chair: #Timo Hoenig (RUB)
+- id: 
+  title:  Coffee break
+  day: 1
+  start: '3:00'
+  stop: '3:30'
+  duration: 30min  
+  show: True
+  chair: 
+- id: 4
+  title: LLM Efficiency & Carbon Impact
+  day: 1
+  start: '3:30'
+  stop: '4:50'
+  duration: 80min  
+  show: True
+  chair: #George Porter (UCSD)
+- id: 
+  title:  Welcome & Opening Remarks
+  day: 2
+  start: '9:00'
+  stop: '9:05'
+  duration: 5min  
+  show: True
+  chair: Timo Hoenig (RUB) and Abel Souza (UCSC)
+  note: 
+- id: keynote
+  title:  Keynote 2
+  day: 2
+  start: '9:05'
+  stop: '10:00'
+  duration: 55min  
+  show: True
+  chair: #Timo Hoenig (RUB) and Abel Souza (UCSC)
+  note: 
+- id: 
+  title: Coffee break
+  day: 2
+  start: '10:00'
+  stop: '10:15'
+  duration: 15min  
+  show: True
+  chair: 
+  note: 
+- id: 5
+  title:  Infrastructure & Long-term Sustainability
+  day: 2
+  start: '10:15'
+  stop: '11:35'
+  duration: 80min  
+  show: True
+  chair: 
+  note: 
+- id: 
+  title:  Lunch
+  day: 2
+  start: '11:35'
+  stop: '1:00'
+  duration: 85min  
+  show: True
+  chair: 
+- id: 6
+  title:  Causal Modeling & Resource Optimization
+  day: 2
+  start: '1:00'
+  stop: '2:20'
+  duration: 80min  
+  show: True
+  chair: 
+  note: 
+# - id: 99
+#   title: Online Program
+#   show: True
+#   note: "Papers in the online program will **not** be presented during the workshop's live event."
+
+  
+
+keynote:
+  title: "The Interplay between AI and Electric Power Systems"
+  authors: "Le Xie (Harvard)"
+  start: '9:15'
+  stop: '10:00'
+  duration: 45min
+  slides: 
+  video: 
+  yt-id: 
+  abstract: "This presentation examines two primary dimensions of the evolving interplay between artificial intelligence (AI) and power systems. First, AI’s increasing electricity demand poses both short-run operational and long-run planning challenges, making it necessary to reform and modernize the existing electric grid. Second, new AI capabilities present an unprecedented opportunity to enhance the efficiency, reliability, and adaptability of power systems, from real-time grid control to long-term expansion planning."
+
+keynote2:
+  title: "TBD"
+  authors: "Daniel S. Berger (Microsoft)"
+  start: '9:05'
+  stop: '10:00'
+  duration: 55min
+  slides: 
+  video: 
+  yt-id: 
+  abstract: "TBD"
+
+
+papers:
+
+- title: "Data Centers Carbon Emissions at Crossroads: An Empirical Study"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 1
+- title: "A Thermal-aware Workload Scheduler for High-performance LLM Inference in Cooling-regulated Datacenters"
+  author-list:
+    # -  Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 1
+- title: "The Promise and Challenges of Extending Server Lifetimes at Hyperscale"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 1
+
+
+
+
+
+
+- title: "Wafer-Scale Systems: A Carbon Perspective"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 2
+- title: "When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 2
+- title: "Dirty Bits in Low-Earth Orbit: The Carbon Footprint of Launching Computers"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 2
+- title: "Re-Evaluating Storage Carbon Emissions In Machine Learning Workloads"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 2
+
+
+
+- title: "From Component to System: Rethinking Edge Computing Design Through a Carbon-Aware Lens"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 3
+- title: "Towards Decentralized and Sustainable Foundation Model Training with the Edge"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 3
+- title: "Performance and Energy Aware Kubernetes Scheduler"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 3
+
+
+- title: "LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 4
+- title: "Energy Efficient or Exhaustive? Benchmarking Power Consumption of LLM Inference Engines"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 4
+- title: "Is Chiplet the Key to Greener AI Accelerators? A Quantitative Benchmarking of Real Chiplet Architectures"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 4
+- title: "The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 4
+
+
+
+
+
+
+- title: "Carbon Topography Representation: Improving Impacts of Data Center Lifecycle"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 5
+- title: "Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 5
+- title: "From Component to System: Rethinking Edge Computing Design Through a Carbon-Aware Lens"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 5
+- title: "Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 5
+
+
+- title: "Causal Machine Learning Approaches for Modelling Data Center Heat Recovery: A Physical Testbed Study"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 6
+- title: "Towards Performance and Energy Aware Kubernetes Scheduler"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 6
+- title: "User Tolerance as a Factor in Sustainable Website Design"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 6
+- title: "Re-Evaluating Storage Carbon Emissions In Machine Learning Workloads"
+  author-list:
+    # - Varsha Rao (University of Chicago)
+  # pdf: "/assets/2025/pdf/paper-xx.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-XX.pdf"
+  session: 6
+
+
+
+
+
+
+# - title: "Data-driven Algorithm Selection for Carbon-Aware Scheduling"
+#   author-list:
+#     - Roozbeh Bostandoost (University of Massachusetts Amherst)
+#     - Walid A. Hanafy (University of Massachusetts Amherst)
+#     - Adam Lechowicz (University of Massachusetts Amherst)
+#     - Noman Bashir (Massachusetts Institute of Technology)
+#     - Prashant Shenoy (University of Massachusetts Amherst)
+#     - Mohammad Hajiesmaili (University of Massachusetts Amherst)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final23.pdf"
+#   # video: ""
+#   slides: 
+#   session: 1
+# - title: "A Call for Research on Storage Emissions"
+#   author-list:
+#     - Sara McAllister (Carnegie Mellon University)
+#     - Fiodar Kazhamiaka (Microsoft Azure)
+#     - Daniel S. Berger (Microsoft Azure)
+#     - Rodrigo Fonseca (Microsoft Azure)
+#     - Kali Frost (Microsoft Azure)
+#     - Aaron Ogus (Microsoft Azure)
+#     - Maneesh Sah (Microsoft Azure)
+#     - Ricardo Bianchini (Microsoft Azure)
+#     - George Amvrosiadis (Carnegie Mellon University)
+#     - Nathan Beckmann (Carnegie Mellon University)
+#     - Gregory R. Ganger (Carnegie Mellon University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final126.pdf"
+#   # video: ""
+#   slides: https://saramcallister.github.io/files/2024-hotcarbon-mcallister-slides.pdf
+#   session: 1
+# - title: "Uncertainty-Aware Decarbonization for Datacenters"
+#   author-list:
+#     - Amy Li (University of Waterloo)
+#     - Sihang Liu (University of Waterloo)
+#     - Yi Ding (Purdue University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final84.pdf"
+#   # video: ""
+#   slides: "/assets/2024/pdf/slides-84.pdf"
+#   session: 1
+# - title: "Geographical Server Relocation: Opportunities and Challenges"
+#   author-list:
+#     - Yejia Liu (UC Riverside)
+#     - Pengfei Li (UC Riverside)
+#     - Daniel Wong (University of California, Riverside)
+#     - Shaolei Ren (UC Riverside)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final20.pdf"
+#   # video: ""
+#   slides: 
+#   session: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+# - title: "Towards Sustainable Large Language Model Serving"
+#   author-list:
+#     - Sophia Nguyen (University of Waterloo)
+#     - Beihao Zhou (University of Waterloo)
+#     - Yi Ding (Purdue University)
+#     - Sihang Liu (University of Waterloo)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final3.pdf"
+#   # video: ""
+#   slides: "/assets/2024/pdf/slides-3.pdf"
+#   session: 2
+# - title: "Carbon in Motion: Characterizing Open-Sora on the Sustainability of Generative AI for Video Generation"
+#   author-list:
+#     - Baolin Li (Northeastern University)
+#     - Yankai Jiang (Northeastern University)
+#     - Devesh Tiwari (Northeastern University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final80.pdf"
+#   # video: ""
+#   slides: "/assets/2024/pdf/slides-80.pdf"
+#   session: 2
+# - title: "Towards Carbon-efficient LLM Life Cycle"
+#   author-list:
+#     - Yueying Li (Cornell University)
+#     - Udit Gupta (Cornell University)
+#     - Omer Graif (Cornell University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final154.pdf"
+#   # video: ""
+#   slides: 
+#   session: 2
+# - title: "Streaming the future of sustainability"
+#   author-list:
+#     - Ryan Hardesty Lewis (Cornell Tech)
+#     - Alex Conway (Cornell Tech)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final81.pdf"
+#   # video: ""
+#   slides: 
+#   session: 2
+
+
+
+
+
+
+
+
+
+
+
+
+# - title: "Energy-Aware Process Scheduling in Linux"
+#   author-list:
+#     - Feitong Qiao (Columbia University)
+#     - Yiming Fang (Columbia University)
+#     - Asaf Cidon (Columbia University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final29.pdf"
+#   # video: ""
+#   slides: 
+#   session: 3
+# - title: "A Sleep Study for ISP Networks: Evaluating Link Sleeping on Real World Data"
+#   author-list:
+#     - Lukas Roellin (ETH Zürich)
+#     - Romain Jacob (ETH Zürich)
+#     - Laurent Vanbever (ETH Zürich)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final58.pdf"
+#   # video: ""
+#   slides: https://nsg.ee.ethz.ch/files/public/slides/2024-07-09-a-sleep-study-for-isp-networks-evaluating-link-sleeping-on-real-world-data_1.pdf
+#   session: 3
+#   award: Best Paper Award
+# - title: "Learning a Data Center Model for Efficient Demand Response"
+#   author-list:
+#     - Quentin Clark (Boston University)
+#     - Fatih Acun (Boston University)
+#     - Ioannis Ch. Paschalidis (Boston University)
+#     - Ayse K. Coskun (Boston University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final42.pdf"
+#   # video: ""
+#   slides: "/assets/2024/pdf/slides-42.pdf"
+#   session: 3
+# - title: "EMPower: The Case for a Cloud Power Control Plane"
+#   author-list:
+#     - Jonggyu Park (University of Washington)
+#     - Theano Stavrinos (University of Washington)
+#     - Simon Peter (University of Washington)
+#     - Thomas Anderson (University of Washington)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final57.pdf"
+#   # video: ""
+#   slides: 
+#   session: 3
+# - title: "Proactive Energy Management in Database Systems"
+#   author-list:
+#     - Yuto Hayamizu (The University of Tokyo)
+#     - Masaru Kitsuregawa (The University of Tokyo)
+#     - Kazuo Goda (The University of Tokyo)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final111.pdf"
+#   # video: ""
+#   slides: 
+#   session: 3
+
+
+
+
+
+
+
+
+
+
+
+# - title: "Lovelock: Towards Smart NIC-hosted Clusters"
+#   author-list:
+#     - Seo Jin Park (University of Southern California)
+#     - Ramesh Govindan (University of Southern California)
+#     - Kai Shen (Google)
+#     - David Culler (Google)
+#     - Fatma Özcan (Google)
+#     - Geon-Woo Kim (The University of Texas at Austin)
+#     - Hank Levy (Google and University of Washington)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final22.pdf"
+#   # video: ""
+#   slides: 
+#   session: 4
+# - title: "Bridging the Sustainability Gap in Serverless through Observability and Carbon-Aware Pricing"
+#   author-list:
+#     - Changyuan Lin (University of British Columbia)
+#     - Mohammad Shahrad (University of British Columbia)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final164.pdf"
+#   # video: ""
+#   slides: 
+#   session: 4
+# - title: "Understanding the Implications of Uncertainty in Embodied Carbon Models for Sustainable Computing"
+#   author-list:
+#     - Anvita Bhagavathula (Cornell University)
+#     - Leo Han (Cornell University)
+#     - Udit Gupta (Cornell University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final146.pdf"
+#   # video: ""
+#   slides: "/assets/2024/pdf/slides-146.pdf"
+#   session: 4
+# - title: "Towards Game-Theoretic Approaches to Attributing Carbon in Cloud Data Centers"
+#   author-list:
+#     - Leo Han (Cornell)
+#     - Jash Kakadia (University of Pennsylvania)
+#     - Benjamin C Lee (University of Pennsylvania)
+#     - Udit Gupta (Cornell)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final7.pdf"
+#   # video: ""
+#   slides: "/assets/2024/pdf/slides-7.pdf"
+#   session: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# - title: "CO2CoDe: Towards Carbon-Aware Hardware/Software Co-Design for Intermittently-Powered Embedded Systems"
+#   author-list:
+#     - Phillip Raffeck (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))
+#     - Sven Posner (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))
+#     - Peter Wägemann (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))
+#   pdf: "/assets/2024/pdf/hotcarbon24-final69.pdf"
+#   video: "https://youtu.be/gcV-DWsB5pc"
+#   slides: 
+#   session: 99
+# - title: "Vessim: A Testbed for Carbon-Aware Applications and Systems"
+#   author-list:
+#     - Philipp Wiesner (Technische Universität Berlin)
+#     - Ilja Behnke (Technische Universität Berlin)
+#     - Paul Kilian (Technische Universität Berlin)
+#     - Marvin Steinke (Technische Universität Berlin)
+#     - Odej Kao (Technische Universität Berlin)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final85.pdf"
+#   slides: "/assets/2024/pdf/slides-85.pdf"
+#   video: "https://youtu.be/VCTTT_GuVgw"
+#   session: 99
+# - title: "Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems"
+#   author-list:
+#     - Grant Wilkins (University of Cambridge)
+#     - Srinivasan Keshav (University of Cambridge)
+#     - Richard Mortier (University of Cambridge)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final30.pdf"
+#   video: "https://youtu.be/-fs1IBe5CTc"
+#   slides: "/assets/2024/pdf/slides-30.pdf"
+#   session: 99
+# - title: "Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity"
+#   author-list:
+#     - Geerd-Dietger Hoffmann (Green Coding Solutions GmbH)
+#     - Verena Majuntke (HTW Berlin)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final109.pdf"
+#   video: "https://youtu.be/BOHKSK8GFYg"
+#   slides: 
+#   session: 99
+# - title: "BoaviztAPI: A Bottom-Up Model to Assess the Environmental Impacts of Cloud Services"
+#   author-list:
+#     - Thibault Simon (Orange Labs, Univ. Lille, Inria, CNRS, UMR 9189 CRIStAL)
+#     - David Ekchajzer (Hubblo, Université Paris-Saclay, Univ Evry, IMT-BS, LITEM,)
+#     - Adrien Berthelot (ENS de Lyon, OCTO Technology, Inria)
+#     - Eric Fourboul (Hubblo, Boavizta)
+#     - Samuel Rince (Alygne, Boavizta)
+#     - Romain Rouvoy (Univ. Lille, Inria, CNRS, UMR 9189 CRIStAL)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final74.pdf"
+#   video: "https://youtu.be/82_tMI6CoCU"
+#   slides: https://thibaultsimon.fr/presentations/hotcarbon/index.html#/
+#   session: 99
+# - title: "Understanding and Mitigating Webpage Data Bloat: Causes and Preventive Measures"
+#   author-list:
+#     - Aleksi Saarinen (Aalto University)
+#     - Muhammad Zubair Farooqi (Aalto University)
+#     - Matti Pärssinen (Aalto University)
+#     - Jukka Manner (Aalto University)
+#   pdf: "/assets/2024/pdf/hotcarbon24-final120.pdf"
+#   video: "https://youtu.be/OoptE2vspsg"
+#   slides: 
+#   session: 99
+
+
