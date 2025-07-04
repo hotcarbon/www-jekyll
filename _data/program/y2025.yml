@@ -145,7 +145,7 @@ keynote:
   abstract: "This presentation examines two primary dimensions of the evolving interplay between artificial intelligence (AI) and power systems. First, AI’s increasing electricity demand poses both short-run operational and long-run planning challenges, making it necessary to reform and modernize the existing electric grid. Second, new AI capabilities present an unprecedented opportunity to enhance the efficiency, reliability, and adaptability of power systems, from real-time grid control to long-term expansion planning."
 
 keynote2:
-  title: "TBD"
+  title: "Carbon negative datacenters require a marathon, not a sprint"
   authors: "Daniel S. Berger (Microsoft)"
   start: '9:05'
   stop: '10:00'
@@ -153,7 +153,7 @@ keynote2:
   slides: 
   video: 
   yt-id: 
-  abstract: "TBD"
+  abstract: "Large cloud providers like Google and Microsoft promise significant carbon emission reductions over the next five years. Drawing on my experience prototyping and deploying sustainable cloud building blocks, this talk will offer a practitioner's view on our progress and the challenges ahead. While we have key wins and learnings, achieving sustainable cloud computing requires a holistic strategy since no single aspect dominates a cloud’s carbon emissions. We must tackle operational and embodied carbon across AI, general-purpose compute, storage, and networking, spanning software and hardware stacks. This talk identifies key open strategic decisions and invites the HotCarbon community to help us find the answers."
 
 
 papers:
