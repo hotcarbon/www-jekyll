@@ -29,24 +29,24 @@ sessions:
   title:  Data Center Sustainability & Thermal Management
   day: 1
   start: '10:15'
-  stop: '11:15'
-  duration: 60min  
+  stop: '11:00'
+  duration: 45min  
   show: True
   chair: #Simon Peter (UW)
 - id: 2
   title:  Hardware & Manufacturing Impact
   day: 1
-  start: '11:20'
-  stop: '12:40'
+  start: '11:00'
+  stop: '12:20'
   duration: 80min  
   show: True
   chair: #Esha Choukse (Microsoft)
 - id: 
   title:  Lunch
   day: 1
-  start: '12:40'
+  start: '12:20'
   stop: '1:45'
-  duration: 65min  
+  duration: 85min  
   show: True
   chair: 
 - id: 3
@@ -179,17 +179,18 @@ papers:
   # video: ""
   # slides: "/assets/2025/pdf/slides-70.pdf"
   session: 1
-- title: "The Promise and Challenges of Extending Server Lifetimes at Hyperscale"
-  author-list:
-    - Jaylen Wang (Carnegie Mellon University)
-    - Melissa Z. Pan (UC Berkeley)
-    - Udit Gupta (Cornell Tech)
-    - Akshitha Sriraman (Carnegie Mellon University)
+# WITHDRAWN
+# - title: "The Promise and Challenges of Extending Server Lifetimes at Hyperscale"
+#   author-list:
+#     - Jaylen Wang (Carnegie Mellon University)
+#     - Melissa Z. Pan (UC Berkeley)
+#     - Udit Gupta (Cornell Tech)
+#     - Akshitha Sriraman (Carnegie Mellon University)
 
-  # pdf: "/assets/2025/pdf/paper-81.pdf"
-  # video: ""
-  # slides: "/assets/2025/pdf/slides-81.pdf"
-  session: 1
+#   # pdf: "/assets/2025/pdf/paper-81.pdf"
+#   # video: ""
+#   # slides: "/assets/2025/pdf/slides-81.pdf"
+#   session: 1
 
 
 
@@ -388,6 +389,15 @@ papers:
   # pdf: "/assets/2025/pdf/paper-56.pdf"
   # video: ""
   # slides: "/assets/2025/pdf/slides-56.pdf"
+  session: 6
+- title: "Noise-aware Client Selection for carbon-efficient Federated Learning via Gradient Norm Thresholding"
+  author-list:
+    - Patrick Wilhelm (Technical University Berlin) 
+    - Inese Yilmaz (Technical University Berlin) 
+    - Odej Kao (Technical University Berlin) 
+  # pdf: "/assets/2025/pdf/paper-2.pdf"
+  # video: ""
+  # slides: "/assets/2025/pdf/slides-2.pdf"
   session: 6
 - title: "User Tolerance as a Factor in Sustainable Website Design"
   author-list:
