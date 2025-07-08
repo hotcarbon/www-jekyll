@@ -357,19 +357,6 @@ papers:
   # video: ""
   # slides: "/assets/2025/pdf/slides-35.pdf"
   session: 5
-- title: "From Component to System: Rethinking Edge Computing Design Through a Carbon-Aware Lens"
-  author-list:
-    - Xuesi Chen (Cornell Tech)
-    - Ariel Goldner (Columbia University)
-    - Eren Yildiz (Georgia Institute of Technology)
-    - Ilan Mandel (Cornell Tech)
-    - Tingyu Cheng (Georgia Institute of Technology)
-    - Josiah Hester (Georgia Institute of Technology)
-    - Udit Gupta (Cornell Tech)
-  # pdf: "/assets/2025/pdf/paper-78.pdf"
-  # video: ""
-  # slides: "/assets/2025/pdf/slides-78.pdf"
-  session: 5
 - title: "Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing"
   author-list:
     - Yanran Wu (Purdue University)
