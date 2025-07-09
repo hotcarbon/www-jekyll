@@ -48,13 +48,23 @@ sessions:
   stop: '1:45'
   duration: 85min  
   show: True
-  chair: 
+  chair:
+  note: 'Taking place in parallel<br>**Graduate Student Forum**, organized by Jennifer Switzer (UC San Diego)'
+# - id: 
+#   title:  Graduate Student Forum
+#   day: 1
+#   start: '12:20'
+#   stop: '1:45'
+#   duration: 85min  
+#   show: True
+#   chair: 'Jennifer Switzer (UC San Diego)'
+#   note: In parallel of the lunch
 - id: 3
   title:  Edge Computing & Distributed Systems
   day: 1
   start: '2:00'
   stop: '3:00'
-  duration: 80min  
+  duration: 60min  
   show: True
   chair: #Timo Hoenig (RUB)
 - id: 
@@ -104,15 +114,24 @@ sessions:
   title:  Infrastructure & Long-term Sustainability
   day: 2
   start: '10:15'
-  stop: '11:35'
-  duration: 80min  
+  stop: '11:15'
+  duration: 60min  
+  show: True
+  chair: 
+  note: 
+- id: 
+  title: Interactive Posters & Discussion Session
+  day: 2
+  start: '11:15'
+  stop: '12:15'
+  duration: 60min  
   show: True
   chair: 
   note: 
 - id: 
   title:  Lunch
   day: 2
-  start: '11:35'
+  start: '12:15'
   stop: '1:00'
   duration: 85min  
   show: True
@@ -125,6 +144,33 @@ sessions:
   duration: 80min  
   show: True
   chair: 
+  note: 
+- id: 
+  title: Coffee break
+  day: 2
+  start: '2:20'
+  stop: '2:45'
+  duration: 25min  
+  show: True
+  chair: 
+  note: 
+- id: 
+  title: 'Open Discussion: Can Cloud Computing Escape the Jevons Paradox'
+  day: 2
+  start: '2:45'
+  stop: '3:30'
+  duration: 45min  
+  show: True
+  chair: Prateek Sharma (Indiana University)
+  note: 
+- id: 
+  title: 'Closing Remarks'
+  day: 2
+  start: '3:30'
+  stop: '3:40'
+  duration: 10min  
+  show: True
+  chair: Timo Hoenig (RUB) and Abel Souza (UCSC)
   note: 
 # - id: 99
 #   title: Online Program
