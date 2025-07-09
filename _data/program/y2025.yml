@@ -133,7 +133,7 @@ sessions:
   day: 2
   start: '12:15'
   stop: '1:00'
-  duration: 85min  
+  duration: 45min  
   show: True
   chair: 
 - id: 6
@@ -439,14 +439,6 @@ papers:
   # pdf: "/assets/2025/pdf/paper-42.pdf"
   # video: ""
   # slides: "/assets/2025/pdf/slides-42.pdf"
-  session: 6
-- title: "Re-Evaluating Storage Carbon Emissions In Machine Learning Workloads"
-  author-list:
-    - Dorota Kopczyk (University of Minnesota - Twin Cities)
-    - Abhishek Chandra (University of Minnesota - Twin Cities)
-  # pdf: "/assets/2025/pdf/paper-34.pdf"
-  # video: ""
-  # slides: "/assets/2025/pdf/slides-34.pdf"
   session: 6
 
 

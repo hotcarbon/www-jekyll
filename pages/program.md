@@ -4,7 +4,7 @@ permalink: /program
 
 # Program
 
-Preliminary agenda - Subject to change
+Condensed program as [PDF](/assets/2025/program.pdf)
 {: .notice--warning}
 
 <!-- Load all papers -->

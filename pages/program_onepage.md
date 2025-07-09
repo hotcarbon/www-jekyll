@@ -100,25 +100,24 @@ Daniel S. Berger (Microsoft)
 **Lunch**
 
 ---
-**13:00 – 14:20**  
+**13:00 – 14:00**  
 **Session 6: Causal Modeling & Resource Optimization**
 - Causal Machine Learning Approaches for Modelling Data Center Heat Recovery: A Physical Testbed Study  
 - Noise-aware Client Selection for Carbon-efficient Federated Learning via Gradient Norm Thresholding  
 - User Tolerance as a Factor in Sustainable Website Design  
-- Re‑Evaluating Storage Carbon Emissions In Machine Learning Workloads
 
 ---
-**2:20 – 2:45**  
+**2:00 – 2:25**  
 **Coffee Break**
 
 ---
-**2:45 – 3:30**  
+**2:25 – 3:10**  
 **Open Discussion: Can Cloud Computing Escape the Jevons Paradox**
 
 Prateek Sharma (Indiana University)
 
 ---
-**3:30 – 3:40**  
+**3:10 – 3:20**  
 **Closing Remarks**
 
 ---
