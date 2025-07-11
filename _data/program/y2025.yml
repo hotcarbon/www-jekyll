@@ -40,7 +40,7 @@ sessions:
   stop: '12:20'
   duration: 80min  
   show: True
-  chair: TBC
+  chair: Li Wu (University of Massachusetts Amherst)
 - id: 
   title:  Lunch
   day: 1
