@@ -4,12 +4,12 @@ permalink: /register
 
 # Attend
 
-<!-- Stay tuned for updates!
+Stay tuned for updates!
 {: .notice--warning}
 
---- -->
+---
 
-## Registration
+<!-- ## Registration
 
 In-person participant must **register before July 7th** to be allowed entry in the workshop building!
 {: .notice--warning}
@@ -18,10 +18,8 @@ Registration via [eventbrite](https://www.eventbrite.com/e/hotcarbon-2025-worksh
 
 ## Location
 
-Workshop location: [Microsoft New England Research & Development Center (NERD)](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/)
+Workshop location: [Microsoft New England Research & Development Center (NERD)](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) -->
 
-Detailed location information will follow very soon.
-<!-- {: .notice} -->
 
 
 <!-- ## Accommodation

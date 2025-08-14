@@ -5,7 +5,7 @@ sessions:
   start: '9:00'
   stop: '9:15'
   duration: 15min  
-  show: True
+  show: False #True 
   chair: Timo Hoenig (RUB) and Abel Souza (UCSC)
   note: 
 - id: keynote
@@ -23,7 +23,7 @@ sessions:
   start: '10:00'
   stop: '10:15'
   duration: 15min  
-  show: True
+  show: False #True
   chair: 
 - id: 1
   title:  Data Center Sustainability & Thermal Management
@@ -47,7 +47,7 @@ sessions:
   start: '12:20'
   stop: '1:45'
   duration: 85min  
-  show: True
+  show: False #True
   chair:
   note: 'Taking place in parallel<br>**Graduate Student Forum**, organized by Jennifer Switzer (UC San Diego)'
 # - id: 
@@ -73,7 +73,7 @@ sessions:
   start: '3:00'
   stop: '3:30'
   duration: 30min  
-  show: True
+  show: False #True
   chair: 
 - id: 4
   title: LLM Efficiency & Carbon Impact
@@ -81,7 +81,7 @@ sessions:
   start: '3:30'
   stop: '4:50'
   duration: 80min  
-  show: True
+  show: False #True
   chair: Noman Bashir (Massachusetts Institute of Technology)
 - id: 
   title:  Welcome & Opening Remarks
@@ -89,7 +89,7 @@ sessions:
   start: '9:00'
   stop: '9:05'
   duration: 5min  
-  show: True
+  show: False #True
   chair: Timo Hoenig (RUB) and Abel Souza (UCSC)
   note: 
 - id: keynote
@@ -107,7 +107,7 @@ sessions:
   start: '10:00'
   stop: '10:15'
   duration: 15min  
-  show: True
+  show: False #True
   chair: 
   note: 
 - id: 5
@@ -125,7 +125,7 @@ sessions:
   start: '11:15'
   stop: '12:15'
   duration: 60min  
-  show: True
+  show: False #True
   chair: 
   note: 
 - id: 
@@ -134,7 +134,7 @@ sessions:
   start: '12:15'
   stop: '1:00'
   duration: 45min  
-  show: True
+  show: False #True
   chair: 
 - id: 6
   title:  Causal Modeling & Resource Optimization
@@ -151,7 +151,7 @@ sessions:
   start: '2:20'
   stop: '2:45'
   duration: 25min  
-  show: True
+  show: False #True
   chair: 
   note: 
 - id: 
@@ -169,7 +169,7 @@ sessions:
   start: '3:30'
   stop: '3:40'
   duration: 10min  
-  show: True
+  show: False #True
   chair: Timo Hoenig (RUB) and Abel Souza (UCSC)
   note: 
 # - id: 99
@@ -213,17 +213,17 @@ papers:
     - Prashant Shenoy (University of Massachusetts Amherst)
     -  Ramesh Sitaraman (UMass Amherst & Akamai Tech)
 
-  # pdf: "/assets/2025/pdf/paper-58.pdf"
+  pdf: "/assets/2025/paper-58.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-58.pdf"
+  # slides: "/assets/2025/slides-58.pdf"
   session: 1
 - title: "A Thermal-aware Workload Scheduler for High-performance LLM Inference in Cooling-regulated Datacenters"
   author-list:
     - Rui Lu (The Hong Kong Polytechnic University)
     - Dan Wang (The Hong Kong Polytechnic University)
-  # pdf: "/assets/2025/pdf/paper-70.pdf"
+  pdf: "/assets/2025/paper-70.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-70.pdf"
+  # slides: "/assets/2025/slides-70.pdf"
   session: 1
 # WITHDRAWN
 # - title: "The Promise and Challenges of Extending Server Lifetimes at Hyperscale"
@@ -233,9 +233,9 @@ papers:
 #     - Udit Gupta (Cornell Tech)
 #     - Akshitha Sriraman (Carnegie Mellon University)
 
-#   # pdf: "/assets/2025/pdf/paper-81.pdf"
+#   # pdf: "/assets/2025/paper-81.pdf"
 #   # video: ""
-#   # slides: "/assets/2025/pdf/slides-81.pdf"
+#   # slides: "/assets/2025/slides-81.pdf"
 #   session: 1
 
 
@@ -252,9 +252,9 @@ papers:
     - Carole-Jean Wu (FAIR at Meta)
     - Gu-Yeon Wei, David Brooks (Harvard University)
 
-  # pdf: "/assets/2025/pdf/paper-160.pdf"
+  pdf: "/assets/2025/paper-160.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-160.pdf"
+  # slides: "/assets/2025/slides-160.pdf"
   session: 2
 - title: "When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact"
   author-list:
@@ -262,9 +262,9 @@ papers:
     - Ritbik Kumar (Purdue University)
     - Inez Hua (Purdue University) 
     - Yi Ding (Purdue University)
-  # pdf: "/assets/2025/pdf/paper-9.pdf"
+  pdf: "/assets/2025/paper-9.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-9.pdf"
+  # slides: "/assets/2025/slides-9.pdf"
   session: 2
 - title: "Dirty Bits in Low-Earth Orbit: The Carbon Footprint of Launching Computers"
   author-list:
@@ -273,17 +273,17 @@ papers:
     - Andreas Schmidt (Saarland University)
     - Juan A. Fraire (Saarland University)
     - Holger Hermanns (Saarland University)
-  # pdf: "/assets/2025/pdf/paper-28.pdf"
+  pdf: "/assets/2025/paper-28.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-28.pdf"
+  # slides: "/assets/2025/slides-28.pdf"
   session: 2
 - title: "Re-Evaluating Storage Carbon Emissions In Machine Learning Workloads"
   author-list:
     - Dorota Kopczyk (University of Minnesota - Twin Cities)
     - Abhishek Chandra (University of Minnesota - Twin Cities)
-  # pdf: "/assets/2025/pdf/paper-34.pdf"
+  pdf: "/assets/2025/paper-34.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-34.pdf"
+  # slides: "/assets/2025/slides-34.pdf"
   session: 2
 
 
@@ -297,9 +297,9 @@ papers:
     - Tingyu Cheng (Georgia Institute of Technology)
     - Josiah Hester (Georgia Institute of Technology)
     - Udit Gupta (Cornell Tech)
-  # pdf: "/assets/2025/pdf/paper-78.pdf"
+  pdf: "/assets/2025/paper-78.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-78.pdf"
+  # slides: "/assets/2025/slides-78.pdf"
   session: 3
 - title: "Towards Decentralized and Sustainable Foundation Model Training with the Edge"
   author-list:
@@ -308,9 +308,9 @@ papers:
     - Randal Burns (Johns Hopkins University)
     - Myungjin Lee (Cisco Research)
     - Mahesh Marina (The University of Edinburgh)
-  # pdf: "/assets/2025/pdf/paper-97.pdf"
+  pdf: "/assets/2025/paper-97.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-97.pdf"
+  # slides: "/assets/2025/slides-97.pdf"
   session: 3
 - title: "Towards Performance and Energy Aware Kubernetes Scheduler"
   author-list:
@@ -321,10 +321,9 @@ papers:
     - Krishnasuri Narayanam (IBM Research)
     - Sanjay Arora (Red Hat Inc)
     - Jonathan Appavoo (Boston University)
-
-  # pdf: "/assets/2025/pdf/paper-80.pdf"
+  pdf: "/assets/2025/paper-80.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-80.pdf"
+  # slides: "/assets/2025/slides-80.pdf"
   session: 3
 
 
@@ -335,9 +334,9 @@ papers:
     - Shan Zhou (Purdue University)
     - Haitong Li (Purdue University)
     - Lei Jiang (Indiana University Bloomington)
-  # pdf: "/assets/2025/pdf/paper-1.pdf"
+  pdf: "/assets/2025/paper-1.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-1.pdf"
+  # slides: "/assets/2025/slides-1.pdf"
   session: 4
 - title: "Energy Efficient or Exhaustive? Benchmarking Power Consumption of LLM Inference Engines"
   author-list:
@@ -345,10 +344,9 @@ papers:
     - Wei Zhang (Lawrence Berkeley National Laboratory)
     - Yongjian Zhao (Texas Tech University)
     - Yong Chen (Texas Tech University)
-
-  # pdf: "/assets/2025/pdf/paper-11.pdf"
+  pdf: "/assets/2025/paper-11.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-11.pdf"
+  # slides: "/assets/2025/slides-11.pdf"
   session: 4
 - title: "Is Chiplet the Key to Greener AI Accelerators? A Quantitative Benchmarking of Real Chiplet Architectures"
   author-list:
@@ -356,10 +354,9 @@ papers:
     - Jiacong Sun (KU Leuven)
     - Xiaoling Yi (KU Leuven)
     - Marian Verhelst (KU Leuven)
-
-  # pdf: "/assets/2025/pdf/paper-18.pdf"
+  pdf: "/assets/2025/paper-18.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-18.pdf"
+  # slides: "/assets/2025/slides-18.pdf"
   session: 4
 - title: "The Utilization Fallacy and the Real Drivers of Carbon-Efficient Inference Serving"
   author-list:
@@ -367,9 +364,9 @@ papers:
     - Dimitrios Liakopoulos (University of Texas at Austin)
     - Ruihao Li (University of Texas at Austin)
     - Neeraja J. Yadwadkar (University of Texas at Austin)
-  # pdf: "/assets/2025/pdf/paper-139.pdf"
+  pdf: "/assets/2025/paper-139.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-139.pdf"
+  # slides: "/assets/2025/slides-139.pdf"
   session: 4
 
 
@@ -387,9 +384,9 @@ papers:
     - Jean-Christophe Prévotet (Univ. Rennes, INSA Rennes, CNRS,IETR - UMR 6164 F-35000 Rennes)
     - Maxime Pelcat (Univ. Rennes, INSA Rennes, CNRS,IETR - UMR 6164 F-35000 Rennes)
     - Sebastien Rumley (HES-SO Fribourg)
-  # pdf: "/assets/2025/pdf/paper-61.pdf"
+  pdf: "/assets/2025/paper-61.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-61.pdf"
+  # slides: "/assets/2025/slides-61.pdf"
   session: 5
 - title: "Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors"
   author-list:
@@ -398,19 +395,18 @@ papers:
     - Jian Shi (University of Houston)
     - Chenye Wu (The Chinese University of Hong Kong - Shenzhen)
     - Zhu Han (University of Houston)
-
-  # pdf: "/assets/2025/pdf/paper-35.pdf"
+  pdf: "/assets/2025/paper-35.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-35.pdf"
+  # slides: "/assets/2025/slides-35.pdf"
   session: 5
 - title: "Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing"
   author-list:
     - Yanran Wu (Purdue University)
     - Inez Hua (Purdue University)
     - Yi Ding (Purdue University)
-  # pdf: "/assets/2025/pdf/paper-85.pdf"
+  pdf: "/assets/2025/paper-85.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-85.pdf"
+  # slides: "/assets/2025/slides-85.pdf"
   session: 5
 
 
@@ -419,26 +415,26 @@ papers:
     - David Zapata Gonzalez (Paderborn University)
     - Marcel Meyer (Paderborn University)
     - Oliver Müller (Paderborn University)
-  # pdf: "/assets/2025/pdf/paper-56.pdf"
+  pdf: "/assets/2025/paper-56.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-56.pdf"
+  # slides: "/assets/2025/slides-56.pdf"
   session: 6
 - title: "Noise-aware Client Selection for carbon-efficient Federated Learning via Gradient Norm Thresholding"
   author-list:
     - Patrick Wilhelm (Technical University Berlin) 
     - Inese Yilmaz (Technical University Berlin) 
     - Odej Kao (Technical University Berlin) 
-  # pdf: "/assets/2025/pdf/paper-2.pdf"
+  pdf: "/assets/2025/paper-2.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-2.pdf"
+  # slides: "/assets/2025/slides-2.pdf"
   session: 6
 - title: "User Tolerance as a Factor in Sustainable Website Design"
   author-list:
     - Grace Everts (Harvey Mudd College)
     - Arthi Padmanabhan (Harvey Mudd College)
-  # pdf: "/assets/2025/pdf/paper-42.pdf"
+  pdf: "/assets/2025/paper-42.pdf"
   # video: ""
-  # slides: "/assets/2025/pdf/slides-42.pdf"
+  # slides: "/assets/2025/slides-42.pdf"
   session: 6
 
 

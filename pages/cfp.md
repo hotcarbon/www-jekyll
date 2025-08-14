@@ -4,10 +4,10 @@ permalink: /cfp
 
 # Call for Papers
 
-<!-- **2024 data**  
+**2025 data**  
 Stay tuned for updates!
 {: .notice--warning}
---- -->
+---
 
 
 ## Dates and location

@@ -15,6 +15,8 @@ side-nav:
   - title: "Past editions"
     url: /past
     children: 
+    - title: 2025
+      url: /2025
     - title: 2024
       url: /2024
     - title: 2023
