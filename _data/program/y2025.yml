@@ -81,7 +81,7 @@ sessions:
   start: '3:30'
   stop: '4:50'
   duration: 80min  
-  show: False #True
+  show: True
   chair: Noman Bashir (Massachusetts Institute of Technology)
 - id: 
   title:  Welcome & Opening Remarks
