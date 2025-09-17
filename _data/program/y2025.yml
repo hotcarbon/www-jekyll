@@ -223,7 +223,7 @@ papers:
     - Dan Wang (The Hong Kong Polytechnic University)
   pdf: "/assets/2025/paper-70.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-70.pdf"
+  slides: "/assets/2025/slides-70.pdf"
   session: 1
 # WITHDRAWN
 # - title: "The Promise and Challenges of Extending Server Lifetimes at Hyperscale"
@@ -275,7 +275,7 @@ papers:
     - Holger Hermanns (Saarland University)
   pdf: "/assets/2025/paper-28.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-28.pdf"
+  slides: "/assets/2025/slides-28.pdf"
   session: 2
 - title: "Re-Evaluating Storage Carbon Emissions In Machine Learning Workloads"
   author-list:
@@ -323,7 +323,7 @@ papers:
     - Jonathan Appavoo (Boston University)
   pdf: "/assets/2025/paper-80.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-80.pdf"
+  slides: "/assets/2025/slides-80.pdf"
   session: 3
 
 
@@ -346,7 +346,7 @@ papers:
     - Yong Chen (Texas Tech University)
   pdf: "/assets/2025/paper-11.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-11.pdf"
+  slides: "/assets/2025/slides-11.pdf"
   session: 4
 - title: "Is Chiplet the Key to Greener AI Accelerators? A Quantitative Benchmarking of Real Chiplet Architectures"
   author-list:
@@ -386,7 +386,7 @@ papers:
     - Sebastien Rumley (HES-SO Fribourg)
   pdf: "/assets/2025/paper-61.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-61.pdf"
+  slides: "/assets/2025/slides-61.pdf"
   session: 5
 - title: "Uncertainty-aware Day-ahead Datacenter Workload Planning with Load-following Small Modular Reactors"
   author-list:
@@ -397,7 +397,7 @@ papers:
     - Zhu Han (University of Houston)
   pdf: "/assets/2025/paper-35.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-35.pdf"
+  slides: "/assets/2025/slides-35.pdf"
   session: 5
 - title: "Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing"
   author-list:
@@ -406,7 +406,7 @@ papers:
     - Yi Ding (Purdue University)
   pdf: "/assets/2025/paper-85.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-85.pdf"
+  slides: "/assets/2025/slides-85.pdf"
   session: 5
 
 
@@ -417,7 +417,7 @@ papers:
     - Oliver Müller (Paderborn University)
   pdf: "/assets/2025/paper-56.pdf"
   # video: ""
-  # slides: "/assets/2025/slides-56.pdf"
+  slides: "/assets/2025/slides-56.pdf"
   session: 6
 - title: "Noise-aware Client Selection for carbon-efficient Federated Learning via Gradient Norm Thresholding"
   author-list:
