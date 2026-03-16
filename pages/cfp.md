@@ -4,24 +4,18 @@ permalink: /cfp
 
 # Call for Papers
 
-**2025 data**  
-Stay tuned for updates!
-{: .notice--warning}
----
-
-
 ## Dates and location
 
-- Date: Thu-Fri. July 10-11, 2025  
-_Immediately after OSDI 2025_
-- Location: Cambridge, MA
-- Paper registration Deadline: May 5, 2025 (AoE)
-- Submission Deadline: May 19, ~~May 12~~ 2025 (AoE)
-- Notifications: June 13, 2025
+- Date: Thu-Fri. July 16-17, 2027  
+_Immediately after OSDI 2026_
+- Location: Seattle, WA, USA
+- Paper registration Deadline: May 11, 2026 (AoE)
+- Submission Deadline: May 18, 2026 (AoE)
+- Notifications: _To be confirmed_ <!--June 13, 2025-->
 
 
-One-page [CfP as PDF (0.2MB)](/assets/2025/HotCarbon25_CfP.pdf)
-{: .notice--primary}
+<!-- One-page [CfP as PDF (0.2MB)](/assets/2025/HotCarbon25_CfP.pdf)
+{: .notice--primary} -->
 
 ## Overview
 
@@ -47,7 +41,8 @@ By its very nature, HotCarbon takes a broad view of systems research, relevant m
 - security
 - dependability
 - manageability
-
+- systems issues in sustainable AI, including those that span the life cycle of AI models, specialized AI systems, data, and ecosystems
+  
 as well as new systems contributions influenced by other fields such as
 
 - hardware design
@@ -68,11 +63,9 @@ Because of the nature of sustainability, research that connects to other complex
 
 is directly relevant.
 
-This year, we are broadening the scope to also include research on **systems issues in sustainable AI**, including those that span the life cycle of AI models, specialized AI systems, data, and ecosystems.
-
 ## Policies
 
-Research and position paper submissions must be no longer than five pages, including figures and tables, plus as many pages as needed for references. Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon’25, July 10-11th, 2025, Cambridge, MA.`.
+Research and position paper submissions must be no longer than five pages, including figures and tables, plus as many pages as needed for references. Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon’26, July 16-17th, 2026, Seattle, WA.`.
 
 Submissions will be **double-blind**. The title and an abstract should appear on the first page; author names should not. Authors must make a good-faith effort to anonymize their submissions, and they should not identify themselves either explicitly or by implication (e.g., through references or acknowledgments).
 
@@ -95,10 +88,12 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 
 ### Chairs
 
-- Timo Hoenig, _Ruhr University Bochum_
-- Abel Souza, _UC Santa Cruz_
+- Yi Ding, _Purdue_
+- Rodrigo Fonseca, _Microsoft Azure_
 
 ### Committee
+
+TBA
 
 <!-- - Akshitha Sriraman, _CMU_ -->
 <!-- - Asaf Cidon, _Columbia University_ -->
@@ -109,11 +104,11 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 <!-- - Karin Strauss, _Microsoft Research_ -->
 <!-- - Mosharaf Chowdhury, _University of Michigan_ -->
 <!-- - Prashant Shenoy, _University of Massachusetts Amherst_ -->
-- Andreas Schmidt, _Universität des Saarlandes_
-- Bilge Acun, _Meta_
-- Dan Wang, _The Hong Kong Polytechnic University_
-- Dilma Da Silva, _Texas A&M University_
-- Fiodar Kazhamiaka, _Microsoft Azure_
+<!-- - Andreas Schmidt, _Universität des Saarlandes_ -->
+<!-- - Bilge Acun, _Meta_ -->
+<!-- - Dan Wang, _The Hong Kong Polytechnic University_ -->
+<!-- - Dilma Da Silva, _Texas A&M University_ -->
+<!-- - Fiodar Kazhamiaka, _Microsoft Azure_
 - Frank Bellosa, _KIT_
 - Geerd-Dietger "Didi" Hoffmann, _Green Coding_
 - Gustavo Alonso, _ETH Zurich_
@@ -128,12 +123,16 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Thomas Anderson, _University of Washington_
 - Ulrich Kremer, _Rutgers_
 - Walid Hanafy, _University of Massachusetts Amherst_
-- Yi Ding, _Purdue_
+- Yi Ding, _Purdue_ -->
 
 ## Contact
 
-You can contact the program chairs at [hotcarbon25chairs@lists.rub.de](mailto:hotcarbon25chairs@lists.rub.de).
+<!-- You can contact the program chairs at [hotcarbon25chairs@lists.rub.de](mailto:hotcarbon25chairs@lists.rub.de). -->
+
+TBA 
 
 ## Submission forum
 
-[hotcarbon25.hotcrp.com](https://hotcarbon25.hotcrp.com/)
+TBA 
+
+<!-- [hotcarbon26.hotcrp.com](https://hotcarbon26.hotcrp.com/) -->

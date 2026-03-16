@@ -20,24 +20,29 @@ toc: false
 
 ## Program Chairs
 
+**2026**
+
+- Yi Ding, _Purdue_
+- Rodrigo Fonseca, _Microsoft Azure_
+
+Check the [Call for Papers]({{ "/cfp" | relative_url }}) for the complete program committee.
+
 **2025**
 
 - Timo Hoenig, _RUB_
 - Abel Souza, _UCSC_
 
-Check the [Call for Papers]({{ "/cfp" | relative_url }}) for the complete program committee.
-
 **2024**
 
-- Simon Peter, University of Washington
-- Esha Choukse, Microsoft
+- Simon Peter, _University of Washington_
+- Esha Choukse, _Microsoft_
 
 **2023**
 
-- Tamar Eilam, IBM Research, New York
-- Andrew A. Chien, University of Chicago and Argonne
+- Tamar Eilam, _IBM Research, New York_
+- Andrew A. Chien, _University of Chicago and Argonne_
 
 **2022**
 
-- Tom Anderson, University of Washington
-- George Porter, UCSD
+- Tom Anderson, _University of Washington_
+- George Porter, _UCSD_
