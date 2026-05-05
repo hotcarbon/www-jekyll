@@ -93,46 +93,30 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 
 ### Committee
 
-TBA
-
-<!-- - Akshitha Sriraman, _CMU_ -->
-<!-- - Asaf Cidon, _Columbia University_ -->
-<!-- - Ben Pfaff, _Feldera_ -->
-<!-- - Bobbie Manne, _AMD Research_ -->
-<!-- - Colleen Josephson, _UC Santa Cruz_ -->
-<!-- - Eun Kyung Lee, _IBM_ -->
-<!-- - Karin Strauss, _Microsoft Research_ -->
-<!-- - Mosharaf Chowdhury, _University of Michigan_ -->
-<!-- - Prashant Shenoy, _University of Massachusetts Amherst_ -->
-<!-- - Andreas Schmidt, _Universität des Saarlandes_ -->
-<!-- - Bilge Acun, _Meta_ -->
-<!-- - Dan Wang, _The Hong Kong Polytechnic University_ -->
-<!-- - Dilma Da Silva, _Texas A&M University_ -->
-<!-- - Fiodar Kazhamiaka, _Microsoft Azure_
-- Frank Bellosa, _KIT_
-- Geerd-Dietger "Didi" Hoffmann, _Green Coding_
-- Gustavo Alonso, _ETH Zurich_
-- Jennifer Switzer, _UC Santa San Diego_
-- Mohammad Shahrad, _University of British Columbia	_
-- Monica Vitali, _Politecnico di Milano_
-- Noman Bashir, _MIT_
-- Paul Townend, _Umea Universitet_
-- Rodrigo Fonseca, _Microsoft Azure_
-- Romain Jacob, _ETH Zurich_
-- Simon Peter, _University of Washington_
-- Thomas Anderson, _University of Washington_
-- Ulrich Kremer, _Rutgers_
-- Walid Hanafy, _University of Massachusetts Amherst_
-- Yi Ding, _Purdue_ -->
+- Abel Souza, _UCSC_
+- Ana Radovanovic, _Google_
+- Arthi Padmanabhan, _Harvy Mudd College_
+- August Ning, _EPFL_
+- Dan Wang, _HKUST_
+- Fiodar Kazhamiaka, _Azure Research_
+- George Porter, _Amazon_
+- Jennifer Switzer, _Google_
+- Karin Strauss, _Microsoft Research_
+- Li Wu, _UMass_
+- Mohammad Shahrad, _University of British Columbia_
+- Neeraja J. Yadwadkar, _UT Austin_
+- Niki Manoledaki, _Grafana Labs_
+- Noman Bashir, _Amazon_
+- Prateek Sharma, _IU_
+- Shaolei Ren, _UCR_
+- Sihang Liu, _University of Waterloo_
+- Timo Hoenig, _Ruhr University Bochum_
+- Walid Hanafy, _UMass_
 
 ## Contact
 
-<!-- You can contact the program chairs at [hotcarbon25chairs@lists.rub.de](mailto:hotcarbon25chairs@lists.rub.de). -->
-
-TBA 
+You can contact the program chairs [by email](mailto:yiding@purdue.edu,Fonseca.Rodrigo@microsoft.com) for any question about the technical program.
 
 ## Submission forum
 
-TBA 
-
-<!-- [hotcarbon26.hotcrp.com](https://hotcarbon26.hotcrp.com/) -->
+[hotcarbon26.hotcrp.com](https://hotcarbon26.hotcrp.com/)
