@@ -98,6 +98,7 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Arthi Padmanabhan, _Harvy Mudd College_
 - August Ning, _EPFL_
 - Dan Wang, _HKUST_
+- Dilma da Silva, _Texas A&M_
 - Fiodar Kazhamiaka, _Azure Research_
 - George Porter, _Amazon_
 - Jennifer Switzer, _Google_
@@ -108,6 +109,7 @@ HotCarbon is **designed primarily as an in-person workshop**, but **with optiona
 - Niki Manoledaki, _Grafana Labs_
 - Noman Bashir, _Amazon_
 - Prateek Sharma, _IU_
+- Raja Sambasivan, _Tufts_
 - Shaolei Ren, _UCR_
 - Sihang Liu, _University of Waterloo_
 - Timo Hoenig, _Ruhr University Bochum_
