@@ -65,7 +65,9 @@ is directly relevant.
 
 ## Policies
 
-Research and position paper submissions must be no longer than five pages, including figures and tables, plus as many pages as needed for references. Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon’26, July 16-17th, 2026, Seattle, WA.`.
+Research and position paper submissions must be no longer than **five pages**, including figures and tables, plus as many pages as needed for references.
+Appendices are not allowed.
+Submissions must be in PDF format and formatted according to the official ACM Proceedings format. Word and LaTeX templates are available on the [ACM Publications Website](https://www.acm.org/publications/proceedings-template). Please use the template `sigconf`. The conference acronym is `HotCarbon’26, July 16-17th, 2026, Seattle, WA.`.
 
 Submissions will be **double-blind**. The title and an abstract should appear on the first page; author names should not. Authors must make a good-faith effort to anonymize their submissions, and they should not identify themselves either explicitly or by implication (e.g., through references or acknowledgments).
 
