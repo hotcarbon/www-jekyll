@@ -334,5 +334,5 @@ defaults:
         - title: "2026 Edition"
           # text: To be announced
           # text: "- Date: Thu-Fri. July 16-17, 2026 \n - Location: Seattle, WA, USA\n - Registration: **May 11, 2026 (AoE)** \n - Submission: ~~May 12, 2026 (AoE)~~ **May 19, 2026 (AoE)** \n - Notifications: June ~~13~~ **16**, 2026"
-          text: "- Date: Thu-Fri. July 16-17, 2026 \n - Location: Seattle, WA, USA\n - Registration: **May 11, 2026 (AoE)** \n - Submission: **May 18, 2026 (AoE)**"
+          text: "- Date: Thu-Fri. July 16-17, 2026 \n - Location: Seattle, WA, USA\n - Registration: **May 11, 2026 (AoE)** \n - Submission: **May 18, 2026 (AoE)\n - Notifications: June  **19**, 2026**"
         - nav: side-nav
