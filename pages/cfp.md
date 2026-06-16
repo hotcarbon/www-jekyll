@@ -11,7 +11,7 @@ _Immediately after OSDI 2026_
 - Location: Seattle, WA, USA
 - Paper registration Deadline: May 11, 2026 (AoE)
 - Submission Deadline: May 18, 2026 (AoE)
-- Notifications: _To be confirmed_ <!--June 13, 2025-->
+- Notifications: June 19, 2026 (AOE) <!--June 13, 2025-->
 
 
 <!-- One-page [CfP as PDF (0.2MB)](/assets/2025/HotCarbon25_CfP.pdf)
