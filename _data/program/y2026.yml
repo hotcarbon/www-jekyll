@@ -130,7 +130,7 @@ sessions:
 
 keynote:
   title: "Designing Sustainable Computer Systems with AI-Driven LCA"
-  authors: "Vikram Iyer (Washinton University)"
+  authors: "Vikram Iyer (University of Washington)"
   start: #'9:15'
   stop: #'10:00'
   duration: #45min
