@@ -1,0 +1,296 @@
+sessions:
+- id: 
+  title:  Welcome & Opening Remarks
+  day: 1
+  start: #'9:00'
+  stop: #'9:15'
+  duration: #15min  
+  show: True 
+  chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
+  note: 
+- id: keynote
+  title:  Keynote 1
+  day: 1
+  start: #'9:15'
+  stop: #'10:00'
+  duration: #45min  
+  show: True
+  chair: #Timo Hoenig (RUB) and Abel Souza (UCSC)
+  note: 
+- id: 
+  title:  Coffee break
+  day: 1
+  start: #'10:00'
+  stop: #'10:15'
+  duration: #15min  
+  show: False #True
+  chair: 
+- id: 1
+  title: LLM Serving 
+  day: 1
+  start: #'10:15'
+  stop: #'11:00'
+  duration: #45min  
+  show: True
+  chair: 
+- id: 
+  title:  Lunch
+  day: 1
+  start: #'12:20'
+  stop: #'1:45'
+  duration: #85min  
+  show: True
+  chair:
+  # note: 'Taking place in parallel<br>**Graduate Student Forum**, organized by Jennifer Switzer (UC San Diego)'
+- id: 2
+  title:  Efficiency and Metrics
+  day: 1
+  start: #'11:00'
+  stop: #'12:20'
+  duration: #80min  
+  show: True
+  chair: 
+- id: 
+  title:  Coffee break
+  day: 1
+  start: #'3:00'
+  stop: #'3:30'
+  duration: #30min  
+  show: False #True
+  chair: 
+- id: 3
+  title:  Carbon Modeling
+  day: 1
+  start: #'2:00'
+  stop: #'3:00'
+  duration: #60min  
+  show: True
+  chair: 
+
+
+- id: 
+  title:  Welcome & Opening Remarks
+  day: 2
+  start: #'9:00'
+  stop: #'9:05'
+  duration: #5min  
+  show: True
+  chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
+  note: 
+- id: keynote
+  title:  Keynote 2
+  day: 2
+  start: #'9:05'
+  stop: #'10:00'
+  duration: #55min  
+  show: True
+  chair: 
+  note:  
+- id: 
+  title: Coffee break
+  day: 2
+  start: #'10:00'
+  stop: #'10:15'
+  duration: #15min  
+  show: True
+  chair: 
+  note: 
+- id: 4
+  title: Hardware
+  day: 1
+  start: #'3:30'
+  stop: #'4:50'
+  duration: #80min  
+  show: True
+  chair: 
+- id: 5
+  title: Systems and Infrastructure-Scale Impacts
+  day: 2
+  start: #'10:15'
+  stop: #'11:15'
+  duration: #60min  
+  show: True
+  chair: 
+  note:  
+- id: 
+  title: 'Closing Remarks'
+  day: 2
+  start: #'3:30'
+  stop: #'3:40'
+  duration: #10min  
+  show: True
+  chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
+  note: 
+# - id: 99
+#   title: Online Program
+#   show: True
+#   note: "Papers in the online program will **not** be presented during the workshop's live event."
+
+  
+
+keynote:
+  title: "Designing Sustainable Computer Systems with AI-Driven LCA"
+  authors: "Vikram Iyer (Washinton University)"
+  start: #'9:15'
+  stop: #'10:00'
+  duration: #45min
+  slides: 
+  video: 
+  yt-id: 
+  abstract: "The environmental impact of computing is projected to grow rapidly over the next decade. Achieving meaningful reductions in climate impact requires reimagining how we design, manufacture, and assess the carbon footprint of computing systems. In this talk, I will first highlight key challenges in incorporating sustainability considerations like carbon into the design process followed by a set of AI driven methods to accelerate embodied carbon estimation. This includes multi-agent systems that collect and reason about publicly available data to reduce cradle-to-gate life-cycle assessments from days to seconds, and interactive interfaces to visualize sustainability data. Together, these techniques seek to empower designers with new decarbonization levers and early stage design insights."
+
+keynote2:
+  title: "TBC"
+  authors: "TBC"
+  start: #'9:05'
+  stop: #'10:00'
+  duration: #55min
+  slides: 
+  video: 
+  yt-id: 
+  abstract: ""
+
+
+papers:
+
+- title: "The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models"
+  author-list:
+  # pdf: "/assets/2026/paper-17.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-17.pdf"
+  session: 1
+- title: "Solve the Sudoku: Few-Shot Energy-Latency Map Profiling for Sustainable LLM Serving"
+  author-list:
+  # pdf: "/assets/2026/paper-73.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-73.pdf"
+  session: 1
+- title: "Energy Characterization of KV Cache Offloading Under Agentic Workloads"
+  author-list:
+  # pdf: "/assets/2026/paper-20.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-20.pdf"
+  session: 1
+- title: "Rethinking Thermal and Power Awareness for LLM Serving on Liquid-Cooled GPUs"
+  author-list:
+  # pdf: "/assets/2026/paper-78.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-78.pdf"
+  session: 1
+
+
+
+
+
+
+- title: "The Reasoning Tax: Profiling Test-Time Compute Carbon in Agentic AI Workloads"
+  author-list:
+  # pdf: "/assets/2026/paper-102.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-102.pdf"
+  session: 2
+- title: "Quantifying the Computing Energy Efficiency Paradox"
+  author-list:
+  # pdf: "/assets/2026/paper-28.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-28.pdf"
+  session: 2
+- title: "The Illusion of Reduction: How Software Carbon Metrics Mask Global Footprints"
+  author-list:
+  # pdf: "/assets/2026/paper-105.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-105.pdf"
+  session: 2
+- title: "Evaluating LLM Knowledge Placement Techniques for Carbon-Efficiency"
+  author-list:
+  # pdf: "/assets/2026/paper-65.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-65.pdf"
+  session: 2
+
+
+
+- title: "Amortizing AI Training Carbon Footprint: Challenges, Limitations, and a Path Forward"
+  author-list:
+  # pdf: "/assets/2026/paper-86.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-86.pdf"
+  session: 3
+- title: "Carbon-Aware Dynamic Parallelism for Distributed Training"
+  author-list:
+  # pdf: "/assets/2026/paper-87.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-87.pdf"
+  session: 3
+- title: "Unveiling the Cloud's Black Box: A Layered Model for Comparable Environmental Impact Assessment"
+  author-list:
+  # pdf: "/assets/2026/paper-88.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-88.pdf"
+  session: 3
+- title: "Carbon Emissions from Cloud Storage: An Empirical Analysis toward Actionable User Practices for Sustainable Storage"
+  author-list:
+  # pdf: "/assets/2026/paper-75.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-75.pdf"
+  session: 3
+
+
+
+
+- title: "HotGPU: A Thermal Profile Dataset for Immersion-Cooling AI Datacenters"
+  author-list:
+  # pdf: "/assets/2026/paper-42.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-42.pdf"
+  session: 4
+- title: "Evaluating the Influence of Measurement Frequency on Energy Readings Using Intel RAPL and NVIDIA NVML"
+  author-list:
+  # pdf: "/assets/2026/paper-46.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-46.pdf"
+  session: 4
+- title: "Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters"
+  author-list:
+  # pdf: "/assets/2026/paper-53.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-53.pdf"
+  session: 4
+- title: "Towards Query-Aware Core-Type Selection on Heterogeneous Multi-core Processors"
+  author-list:
+  # pdf: "/assets/2026/paper-19.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-19.pdf"
+  session: 4
+
+
+
+
+
+
+- title: "Network Costs Fade, Compute Dominates: Carbon Modeling for Edge Stream Processing in the LLM Era"
+  author-list:
+  # pdf: "/assets/2026/paper-16.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-16.pdf"
+  session: 5
+- title: "Towards a Digital Twin of the European Power System"
+  author-list:
+  # pdf: "/assets/2026/paper-72.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-72.pdf"
+  session: 5
+- title: "Databases Are Blind to Energy"
+  author-list:
+  # pdf: "/assets/2026/paper-97.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-97.pdf"
+  session: 5
+- title: "Beyond Carbon: A Call for Research on the Impacts of Computing Systems on Human Health"
+  author-list:
+  # pdf: "/assets/2026/paper-63.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-63.pdf"
+  session: 5
+
+
