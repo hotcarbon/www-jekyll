@@ -26,8 +26,8 @@ toc: true
 {%if session.day == 1%}
 {%if session.id and session.id == 'keynote'%}
 ### Keynote: {{keynote.title}}
-<!-- {{keynote.start}} -- {{keynote.stop}} ({{keynote.duration}})
-{: .notice} -->
+{{keynote.start}} -- {{keynote.stop}} ({{keynote.duration}})
+{: .notice}
 {% include keynote.html keynote=keynote %}
 {%else%}
 {% assign curr_session = session.id%}
@@ -43,8 +43,8 @@ toc: true
 {%if session.day == 2%}
 {%if session.id and session.id == 'keynote'%}
 ### Keynote: {{keynote2.title}}
-<!-- {{keynote.start}} -- {{keynote.stop}} ({{keynote.duration}})
-{: .notice} -->
+{{keynote2.start}} -- {{keynote2.stop}} ({{keynote2.duration}})
+{: .notice}
 {% include keynote.html keynote=keynote2 %}
 {%else%}
 {% assign curr_session = session.id%}

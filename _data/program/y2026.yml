@@ -2,68 +2,83 @@ sessions:
 - id: 
   title:  Welcome & Opening Remarks
   day: 1
-  start: #'9:00'
-  stop: #'9:15'
-  duration: #15min  
+  start: '8:50'
+  stop: '9:05'
+  duration: 15min  
   show: True 
   chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
   note: 
 - id: keynote
   title:  Keynote 1
   day: 1
-  start: #'9:15'
-  stop: #'10:00'
-  duration: #45min  
+  start: '9:05'
+  stop: '10:00'
+  duration: 55min  
   show: True
   chair: #Timo Hoenig (RUB) and Abel Souza (UCSC)
   note: 
 - id: 
   title:  Coffee break
   day: 1
-  start: #'10:00'
-  stop: #'10:15'
-  duration: #15min  
-  show: False #True
+  start: '10:00'
+  stop: '10:15'
+  duration: 15min  
+  show: True
   chair: 
 - id: 1
   title: LLM Serving 
   day: 1
-  start: #'10:15'
-  stop: #'11:00'
-  duration: #45min  
+  start: '10:15'
+  stop: '11:35'
+  duration: 80min  
   show: True
   chair: 
 - id: 
   title:  Lunch
   day: 1
-  start: #'12:20'
-  stop: #'1:45'
-  duration: #85min  
+  start: '11:35'
+  stop: '1:00'
+  duration: 85min  
   show: True
   chair:
-  # note: 'Taking place in parallel<br>**Graduate Student Forum**, organized by Jennifer Switzer (UC San Diego)'
+  note: 
 - id: 2
   title:  Efficiency and Metrics
   day: 1
-  start: #'11:00'
-  stop: #'12:20'
-  duration: #80min  
+  start: '1:00'
+  stop: '2:20'
+  duration: 80min  
   show: True
   chair: 
 - id: 
   title:  Coffee break
   day: 1
-  start: #'3:00'
-  stop: #'3:30'
-  duration: #30min  
-  show: False #True
+  start: '2:20'
+  stop: '2:30'
+  duration: 10min  
+  show: True
   chair: 
 - id: 3
   title:  Carbon Modeling
   day: 1
-  start: #'2:00'
-  stop: #'3:00'
-  duration: #60min  
+  start: '2:30'
+  stop: '3:50'
+  duration: 80min  
+  show: True
+  chair: 
+- id: 
+  title:  Coffee break
+  day: 1
+  start: '3:50'
+  stop: '4:00'
+  duration: 10min  
+  show: True
+- id: 
+  title: Panel
+  day: 1
+  start: '4:00'
+  stop: '5:00'
+  duration: 60min  
   show: True
   chair: 
 
@@ -71,55 +86,63 @@ sessions:
 - id: 
   title:  Welcome & Opening Remarks
   day: 2
-  start: #'9:00'
-  stop: #'9:05'
-  duration: #5min  
+  start: '8:55'
+  stop: '9:00'
+  duration: 5min  
   show: True
   chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
   note: 
 - id: keynote
   title:  Keynote 2
   day: 2
-  start: #'9:05'
-  stop: #'10:00'
-  duration: #55min  
+  start: '9:00'
+  stop: '9:50'
+  duration: 50min  
   show: True
   chair: 
   note:  
 - id: 
   title: Coffee break
   day: 2
-  start: #'10:00'
-  stop: #'10:15'
-  duration: #15min  
+  start: '9:50'
+  stop: '10:00'
+  duration: 10min  
   show: True
-  chair: 
   note: 
 - id: 4
   title: Hardware
-  day: 1
-  start: #'3:30'
-  stop: #'4:50'
-  duration: #80min  
+  day: 2
+  start: '10:00'
+  stop: '11:20'
+  duration: 80min  
   show: True
   chair: 
+- id: 
+  title:  Lunch
+  day: 2
+  start: '11:20'
+  stop: '12:30'
+  duration: 70min  
+  show: True
+  chair:
+  note: 
 - id: 5
   title: Systems and Infrastructure-Scale Impacts
   day: 2
-  start: #'10:15'
-  stop: #'11:15'
-  duration: #60min  
+  start: '12:30'
+  stop: '1:50'
+  duration: 80min  
   show: True
   chair: 
   note:  
 - id: 
   title: 'Closing Remarks'
   day: 2
-  start: #'3:30'
-  stop: #'3:40'
-  duration: #10min  
+  start: '1:50'
+  stop: '2:00'
+  duration: 10min  
   show: True
-  chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
+  # chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
   note: 
 # - id: 99
 #   title: Online Program
@@ -131,9 +154,9 @@ sessions:
 keynote:
   title: "Designing Sustainable Computer Systems with AI-Driven LCA"
   authors: "Vikram Iyer (University of Washington)"
-  start: #'9:15'
-  stop: #'10:00'
-  duration: #45min
+  start: '9:05'
+  stop: '10:00'
+  duration: 55min  
   slides: 
   video: 
   yt-id: 
@@ -142,9 +165,9 @@ keynote:
 keynote2:
   title: "TBC"
   authors: "TBC"
-  start: #'9:05'
-  stop: #'10:00'
-  duration: #55min
+  start: '9:00'
+  stop: '9:50'
+  duration: 50min
   slides: 
   video: 
   yt-id: 
