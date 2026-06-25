@@ -178,24 +178,35 @@ papers:
 
 - title: "The Cost of Context: Profiling the Energy Footprint of Input Tokens in Large Language Models"
   author-list:
+    - Boris Ruf ( Axa Research )
+    - Marcin Detyniecki ( Axa )
   # pdf: "/assets/2026/paper-17.pdf"
   # video: ""
   # slides: "/assets/2026/slides-17.pdf"
   session: 1
 - title: "Solve the Sudoku: Few-Shot Energy-Latency Map Profiling for Sustainable LLM Serving"
   author-list:
+    - Kunming ZHANG ( The Hong Kong University of Science and Technology (Guangzhou) )
+    - Xianyi YUAN ( The Hong Kong University of Science and Technology (Guangzhou) )
+    - Deke GUO ( Sun Yat-sen University )
+    - Guoming TANG ( The Hong Kong University of Science and Technology (Guangzhou) )
   # pdf: "/assets/2026/paper-73.pdf"
   # video: ""
   # slides: "/assets/2026/slides-73.pdf"
   session: 1
 - title: "Energy Characterization of KV Cache Offloading Under Agentic Workloads"
   author-list:
+    - Gilbert Mao ( Georgia Institute of Technology )
+    - Ruiyang Zhou ( Georgia Institute of Technology )
   # pdf: "/assets/2026/paper-20.pdf"
   # video: ""
   # slides: "/assets/2026/slides-20.pdf"
   session: 1
 - title: "Rethinking Thermal and Power Awareness for LLM Serving on Liquid-Cooled GPUs"
   author-list:
+    - Taku Okamura ( Hitachi, Ltd. )
+    - Yasutaka Kono ( Hitachi, Ltd. )
+    - Ryota Morimoto ( Hitachi, Ltd. )
   # pdf: "/assets/2026/paper-78.pdf"
   # video: ""
   # slides: "/assets/2026/slides-78.pdf"
@@ -208,24 +219,35 @@ papers:
 
 - title: "The Reasoning Tax: Profiling Test-Time Compute Carbon in Agentic AI Workloads"
   author-list:
+    - Hannaneh B. Pasandi ( University of California, Berkeley )
+    - Tamer Nadeem ( Virginia Commonwealth University )
   # pdf: "/assets/2026/paper-102.pdf"
   # video: ""
   # slides: "/assets/2026/slides-102.pdf"
   session: 2
 - title: "Quantifying the Computing Energy Efficiency Paradox"
   author-list:
-  # pdf: "/assets/2026/paper-28.pdf"
+    - Pranjali Jain ( UC Santa Barbara )
+    - Jonathan Balkind ( UC Santa Barbara )
+    - Timothy Sherwood ( Independent )
+# pdf: "/assets/2026/paper-28.pdf"
   # video: ""
   # slides: "/assets/2026/slides-28.pdf"
   session: 2
 - title: "The Illusion of Reduction: How Software Carbon Metrics Mask Global Footprints"
   author-list:
+    - Prateek Sharma ( Indiana University )
+    - Abel Souza ( UC Santa Cruz )
+    - Mohammad Shahrad ( University of British Columbia )
+    - Changyuan Lin ( University of British Columbia )
   # pdf: "/assets/2026/paper-105.pdf"
   # video: ""
   # slides: "/assets/2026/slides-105.pdf"
   session: 2
 - title: "Evaluating LLM Knowledge Placement Techniques for Carbon-Efficiency"
   author-list:
+    - Rankyung Hong ( University of Minnesota )
+    - Abhishek Chandra ( University of Minnesota )
   # pdf: "/assets/2026/paper-65.pdf"
   # video: ""
   # slides: "/assets/2026/slides-65.pdf"
@@ -235,24 +257,38 @@ papers:
 
 - title: "Amortizing AI Training Carbon Footprint: Challenges, Limitations, and a Path Forward"
   author-list:
+    - Noman Bashir ( Amazon Web Services (AWS) )
+    - Fabio Grimaldi ( Amazon Web Services (AWS) )
+    - Ardeshir Raihanian ( Amazon Web Services (AWS) )
+    - Kommy Weldemariam ( Amazon )
+    - Aravind Srinivasan ( Amazon )
+    - Ryan Bradley ( Amazon Web Services (AWS) )
   # pdf: "/assets/2026/paper-86.pdf"
   # video: ""
   # slides: "/assets/2026/slides-86.pdf"
   session: 3
 - title: "Carbon-Aware Dynamic Parallelism for Distributed Training"
   author-list:
-  # pdf: "/assets/2026/paper-87.pdf"
+    - Wafik Aboualim ( University of Pittsburgh )
+    - Stephen Lee ( University of Pittsburgh )
+  #  pdf: "/assets/2026/paper-87.pdf"
   # video: ""
   # slides: "/assets/2026/slides-87.pdf"
   session: 3
 - title: "Unveiling the Cloud's Black Box: A Layered Model for Comparable Environmental Impact Assessment"
   author-list:
+    - Marie Reinbigler ( Resilio )
+    - Thibault Simon ( Resilio )
+    - Louise Aubet ( Resilio )
   # pdf: "/assets/2026/paper-88.pdf"
   # video: ""
   # slides: "/assets/2026/slides-88.pdf"
   session: 3
 - title: "Carbon Emissions from Cloud Storage: An Empirical Analysis toward Actionable User Practices for Sustainable Storage"
   author-list:
+    - Gopika Premsankar ( Aalto University )
+    - Lin Wang ( Paderborn University )
+    - Suzan Bayhan ( University of Twente )
   # pdf: "/assets/2026/paper-75.pdf"
   # video: ""
   # slides: "/assets/2026/slides-75.pdf"
@@ -263,24 +299,40 @@ papers:
 
 - title: "HotGPU: A Thermal Profile Dataset for Immersion-Cooling AI Datacenters"
   author-list:
+    - Hengjia Zhang ( The Hong Kong Polytechnic Univeristy )
+    - Shuntao Zhu ( The Hong Kong Polytechnic Univeristy )
+    - Rui Lu ( The Hong Kong Polytechnic Univeristy )
+    - Dan Wang ( The Hong Kong University of Science and Technology )
   # pdf: "/assets/2026/paper-42.pdf"
   # video: ""
   # slides: "/assets/2026/slides-42.pdf"
   session: 4
 - title: "Evaluating the Influence of Measurement Frequency on Energy Readings Using Intel RAPL and NVIDIA NVML"
   author-list:
+    - Maximilian Dauner ( Munich University of Applied Sciences HM )
+    - Manuel Steinberg ( Munich University of Applied Sciences HM )
+    - Andreas Brunnert ( Munich University of Applied Sciences HM )
+    - Benedikt Schicker ( Munich University of Applied Sciences HM )
+    - Benedikt Zönnchen ( Munich University of Applied Sciences HM )
   # pdf: "/assets/2026/paper-46.pdf"
   # video: ""
   # slides: "/assets/2026/slides-46.pdf"
   session: 4
 - title: "Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters"
   author-list:
+    - Shuyi Chen ( Southern University of Science and Technology )
+    - Zhengchang Hua ( Southern University of Science and Technology )
+    - Nikos Tziritas ( University of Thessaly )
+    - Georgios Theodoropoulos ( Research Institute of Trustworthy Autonomous Systems; Southern University of Science and Technology )
   # pdf: "/assets/2026/paper-53.pdf"
   # video: ""
   # slides: "/assets/2026/slides-53.pdf"
   session: 4
 - title: "Towards Query-Aware Core-Type Selection on Heterogeneous Multi-core Processors"
   author-list:
+    - Xueqing Feng ( The University of Tokyo )
+    - Yuto Hayamizu ( The University of Tokyo )
+    - Kazuo Goda ( The University of Tokyo )
   # pdf: "/assets/2026/paper-19.pdf"
   # video: ""
   # slides: "/assets/2026/slides-19.pdf"
@@ -293,24 +345,35 @@ papers:
 
 - title: "Network Costs Fade, Compute Dominates: Carbon Modeling for Edge Stream Processing in the LLM Era"
   author-list:
+    - Brian Ramprasad ( University of Toronto )
+    - Eyal de Lara ( University of Toronto )
   # pdf: "/assets/2026/paper-16.pdf"
   # video: ""
   # slides: "/assets/2026/slides-16.pdf"
   session: 5
 - title: "Towards a Digital Twin of the European Power System"
   author-list:
+    - Federico Sentineri ( Euro-Mediterranean Center on Climate Change (CMCC) )
+    - Gabriele Padovani ( University of Trento )
+    - Paola Nassisi ( Euro-Mediterranean Center on Climate Change (CMCC) )
+    - Sandro Luigi Fiore ( University of Trento )
   # pdf: "/assets/2026/paper-72.pdf"
   # video: ""
   # slides: "/assets/2026/slides-72.pdf"
   session: 5
 - title: "Databases Are Blind to Energy"
   author-list:
+    - Andres Navarro Pedregal ( ETH Zurich )
+    - Tobias Rahn ( ETH Zurich )
+    - Michal Friedman ( ETH Zurich )
   # pdf: "/assets/2026/paper-97.pdf"
   # video: ""
   # slides: "/assets/2026/slides-97.pdf"
   session: 5
 - title: "Beyond Carbon: A Call for Research on the Impacts of Computing Systems on Human Health"
   author-list:
+    - Dorota Kopczyk ( University of Minnesota -- Twin Cities )
+    - Abhishek Chandra ( University of Minnesota -- Twin Cities )
   # pdf: "/assets/2026/paper-63.pdf"
   # video: ""
   # slides: "/assets/2026/slides-63.pdf"
