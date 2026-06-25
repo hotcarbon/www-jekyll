@@ -163,8 +163,8 @@ keynote:
   abstract: "The environmental impact of computing is projected to grow rapidly over the next decade. Achieving meaningful reductions in climate impact requires reimagining how we design, manufacture, and assess the carbon footprint of computing systems. In this talk, I will first highlight key challenges in incorporating sustainability considerations like carbon into the design process followed by a set of AI driven methods to accelerate embodied carbon estimation. This includes multi-agent systems that collect and reason about publicly available data to reduce cradle-to-gate life-cycle assessments from days to seconds, and interactive interfaces to visualize sustainability data. Together, these techniques seek to empower designers with new decarbonization levers and early stage design insights."
 
 keynote2:
-  title: "TBC"
-  authors: "TBC"
+  title: "Karin Strauss | TBA"
+  authors: "Karin Strauss (Microsoft Research)"
   start: '9:00'
   stop: '9:50'
   duration: 50min
