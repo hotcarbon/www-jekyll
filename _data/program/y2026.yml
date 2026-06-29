@@ -255,6 +255,24 @@ papers:
 
 
 
+- title: "Unveiling the Cloud's Black Box: A Layered Model for Comparable Environmental Impact Assessment"
+  author-list:
+    - Marie Reinbigler ( Resilio )
+    - Thibault Simon ( Resilio )
+    - Louise Aubet ( Resilio )
+  # pdf: "/assets/2026/paper-88.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-88.pdf"
+  session: 3
+- title: "Carbon Emissions from Cloud Storage: An Empirical Analysis toward Actionable User Practices for Sustainable Storage"
+  author-list:
+    - Gopika Premsankar ( Aalto University )
+    - Lin Wang ( Paderborn University )
+    - Suzan Bayhan ( University of Twente )
+  # pdf: "/assets/2026/paper-75.pdf"
+  # video: ""
+  # slides: "/assets/2026/slides-75.pdf"
+  session: 3
 - title: "Amortizing AI Training Carbon Footprint: Challenges, Limitations, and a Path Forward"
   author-list:
     - Noman Bashir ( Amazon Web Services (AWS) )
@@ -274,24 +292,6 @@ papers:
   #  pdf: "/assets/2026/paper-87.pdf"
   # video: ""
   # slides: "/assets/2026/slides-87.pdf"
-  session: 3
-- title: "Unveiling the Cloud's Black Box: A Layered Model for Comparable Environmental Impact Assessment"
-  author-list:
-    - Marie Reinbigler ( Resilio )
-    - Thibault Simon ( Resilio )
-    - Louise Aubet ( Resilio )
-  # pdf: "/assets/2026/paper-88.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-88.pdf"
-  session: 3
-- title: "Carbon Emissions from Cloud Storage: An Empirical Analysis toward Actionable User Practices for Sustainable Storage"
-  author-list:
-    - Gopika Premsankar ( Aalto University )
-    - Lin Wang ( Paderborn University )
-    - Suzan Bayhan ( University of Twente )
-  # pdf: "/assets/2026/paper-75.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-75.pdf"
   session: 3
 
 
