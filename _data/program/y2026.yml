@@ -180,7 +180,7 @@ papers:
   author-list:
     - Boris Ruf ( Axa Research )
     - Marcin Detyniecki ( Axa )
-  # pdf: "/assets/2026/paper-17.pdf"
+  pdf: "/assets/2026/paper-17.pdf"
   # video: ""
   # slides: "/assets/2026/slides-17.pdf"
   session: 1
@@ -190,7 +190,7 @@ papers:
     - Xianyi YUAN ( The Hong Kong University of Science and Technology (Guangzhou) )
     - Deke GUO ( Sun Yat-sen University )
     - Guoming TANG ( The Hong Kong University of Science and Technology (Guangzhou) )
-  # pdf: "/assets/2026/paper-73.pdf"
+  pdf: "/assets/2026/paper-73.pdf"
   # video: ""
   # slides: "/assets/2026/slides-73.pdf"
   session: 1
@@ -198,7 +198,7 @@ papers:
   author-list:
     - Gilbert Mao ( Georgia Institute of Technology )
     - Ruiyang Zhou ( Georgia Institute of Technology )
-  # pdf: "/assets/2026/paper-20.pdf"
+  pdf: "/assets/2026/paper-20.pdf"
   # video: ""
   # slides: "/assets/2026/slides-20.pdf"
   session: 1
@@ -207,7 +207,7 @@ papers:
     - Taku Okamura ( Hitachi, Ltd. )
     - Yasutaka Kono ( Hitachi, Ltd. )
     - Ryota Morimoto ( Hitachi, Ltd. )
-  # pdf: "/assets/2026/paper-78.pdf"
+  pdf: "/assets/2026/paper-78.pdf"
   # video: ""
   # slides: "/assets/2026/slides-78.pdf"
   session: 1
@@ -221,7 +221,7 @@ papers:
   author-list:
     - Hannaneh B. Pasandi ( University of California, Berkeley )
     - Tamer Nadeem ( Virginia Commonwealth University )
-  # pdf: "/assets/2026/paper-102.pdf"
+  pdf: "/assets/2026/paper-102.pdf"
   # video: ""
   # slides: "/assets/2026/slides-102.pdf"
   session: 2
@@ -230,7 +230,7 @@ papers:
     - Pranjali Jain ( UC Santa Barbara )
     - Jonathan Balkind ( UC Santa Barbara )
     - Timothy Sherwood ( Independent )
-# pdf: "/assets/2026/paper-28.pdf"
+  pdf: "/assets/2026/paper-28.pdf"
   # video: ""
   # slides: "/assets/2026/slides-28.pdf"
   session: 2
@@ -240,7 +240,7 @@ papers:
     - Abel Souza ( UC Santa Cruz )
     - Mohammad Shahrad ( University of British Columbia )
     - Changyuan Lin ( University of British Columbia )
-  # pdf: "/assets/2026/paper-105.pdf"
+  pdf: "/assets/2026/paper-105.pdf"
   # video: ""
   # slides: "/assets/2026/slides-105.pdf"
   session: 2
@@ -248,7 +248,7 @@ papers:
   author-list:
     - Rankyung Hong ( University of Minnesota )
     - Abhishek Chandra ( University of Minnesota )
-  # pdf: "/assets/2026/paper-65.pdf"
+  pdf: "/assets/2026/paper-65.pdf"
   # video: ""
   # slides: "/assets/2026/slides-65.pdf"
   session: 2
@@ -260,7 +260,7 @@ papers:
     - Marie Reinbigler ( Resilio )
     - Thibault Simon ( Resilio )
     - Louise Aubet ( Resilio )
-  # pdf: "/assets/2026/paper-88.pdf"
+  pdf: "/assets/2026/paper-88.pdf"
   # video: ""
   # slides: "/assets/2026/slides-88.pdf"
   session: 3
@@ -269,7 +269,7 @@ papers:
     - Gopika Premsankar ( Aalto University )
     - Lin Wang ( Paderborn University )
     - Suzan Bayhan ( University of Twente )
-  # pdf: "/assets/2026/paper-75.pdf"
+  pdf: "/assets/2026/paper-75.pdf"
   # video: ""
   # slides: "/assets/2026/slides-75.pdf"
   session: 3
@@ -289,7 +289,7 @@ papers:
   author-list:
     - Wafik Aboualim ( University of Pittsburgh )
     - Stephen Lee ( University of Pittsburgh )
-  #  pdf: "/assets/2026/paper-87.pdf"
+  pdf: "/assets/2026/paper-87.pdf"
   # video: ""
   # slides: "/assets/2026/slides-87.pdf"
   session: 3
@@ -303,7 +303,7 @@ papers:
     - Shuntao Zhu ( The Hong Kong Polytechnic Univeristy )
     - Rui Lu ( The Hong Kong Polytechnic Univeristy )
     - Dan Wang ( The Hong Kong University of Science and Technology )
-  # pdf: "/assets/2026/paper-42.pdf"
+  pdf: "/assets/2026/paper-42.pdf"
   # video: ""
   # slides: "/assets/2026/slides-42.pdf"
   session: 4
@@ -314,7 +314,7 @@ papers:
     - Andreas Brunnert ( Munich University of Applied Sciences HM )
     - Benedikt Schicker ( Munich University of Applied Sciences HM )
     - Benedikt Zönnchen ( Munich University of Applied Sciences HM )
-  # pdf: "/assets/2026/paper-46.pdf"
+  pdf: "/assets/2026/paper-46.pdf"
   # video: ""
   # slides: "/assets/2026/slides-46.pdf"
   session: 4
@@ -324,7 +324,7 @@ papers:
     - Zhengchang Hua ( Southern University of Science and Technology )
     - Nikos Tziritas ( University of Thessaly )
     - Georgios Theodoropoulos ( Research Institute of Trustworthy Autonomous Systems; Southern University of Science and Technology )
-  # pdf: "/assets/2026/paper-53.pdf"
+  pdf: "/assets/2026/paper-53.pdf"
   # video: ""
   # slides: "/assets/2026/slides-53.pdf"
   session: 4
@@ -333,7 +333,7 @@ papers:
     - Xueqing Feng ( The University of Tokyo )
     - Yuto Hayamizu ( The University of Tokyo )
     - Kazuo Goda ( The University of Tokyo )
-  # pdf: "/assets/2026/paper-19.pdf"
+  pdf: "/assets/2026/paper-19.pdf"
   # video: ""
   # slides: "/assets/2026/slides-19.pdf"
   session: 4
@@ -357,7 +357,7 @@ papers:
     - Gabriele Padovani ( University of Trento )
     - Paola Nassisi ( Euro-Mediterranean Center on Climate Change (CMCC) )
     - Sandro Luigi Fiore ( University of Trento )
-  # pdf: "/assets/2026/paper-72.pdf"
+  pdf: "/assets/2026/paper-72.pdf"
   # video: ""
   # slides: "/assets/2026/slides-72.pdf"
   session: 5
@@ -366,7 +366,7 @@ papers:
     - Andres Navarro Pedregal ( ETH Zurich )
     - Tobias Rahn ( ETH Zurich )
     - Michal Friedman ( ETH Zurich )
-  # pdf: "/assets/2026/paper-97.pdf"
+  pdf: "/assets/2026/paper-97.pdf"
   # video: ""
   # slides: "/assets/2026/slides-97.pdf"
   session: 5
@@ -374,7 +374,7 @@ papers:
   author-list:
     - Dorota Kopczyk ( University of Minnesota -- Twin Cities )
     - Abhishek Chandra ( University of Minnesota -- Twin Cities )
-  # pdf: "/assets/2026/paper-63.pdf"
+  pdf: "/assets/2026/paper-63.pdf"
   # video: ""
   # slides: "/assets/2026/slides-63.pdf"
   session: 5
