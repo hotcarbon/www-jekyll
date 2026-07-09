@@ -74,7 +74,7 @@ sessions:
   duration: 10min  
   show: True
 - id: 
-  title: Panel
+  title: Poster session
   day: 1
   start: '4:00'
   stop: '5:00'
@@ -136,10 +136,26 @@ sessions:
   chair: 
   note:  
 - id: 
-  title: 'Closing Remarks'
+  title: Coffee break
   day: 2
   start: '1:50'
   stop: '2:00'
+  duration: 10min  
+  show: True
+  note: 
+- id: 
+  title: Panel
+  day: 2
+  start: '2:00'
+  stop: '2:50'
+  duration: 50min  
+  show: True
+  note: 
+- id: 
+  title: 'Closing Remarks'
+  day: 2
+  start: '2:50'
+  stop: '3:00'
   duration: 10min  
   show: True
   # chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)

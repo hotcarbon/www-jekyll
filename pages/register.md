@@ -20,6 +20,7 @@ Via [CVENT](https://cvent.me/1XN4Kq).
 
 - July 3: Early registration deadline 
 - July 8: Regular registration deadline
+- Late registration possible until the event start
 
 ## Location
 
@@ -32,3 +33,7 @@ There will be signs at the entrance and elevator.
 - [Overall directions](https://www.cs.washington.edu/who-we-are/contact-us/getting-here/)
 
 <!-- ## Accommodation -->
+## WiFi access
+
+- WiFi eduroam is available
+- Otherwise UW has an option for Guests to connect. Connect to the “University of Washington” network and follow the instructions in the browser to connect as a guest. [Additional details](https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0034263)
