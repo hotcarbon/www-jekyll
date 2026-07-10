@@ -179,7 +179,7 @@ keynote:
   abstract: "The environmental impact of computing is projected to grow rapidly over the next decade. Achieving meaningful reductions in climate impact requires reimagining how we design, manufacture, and assess the carbon footprint of computing systems. In this talk, I will first highlight key challenges in incorporating sustainability considerations like carbon into the design process followed by a set of AI driven methods to accelerate embodied carbon estimation. This includes multi-agent systems that collect and reason about publicly available data to reduce cradle-to-gate life-cycle assessments from days to seconds, and interactive interfaces to visualize sustainability data. Together, these techniques seek to empower designers with new decarbonization levers and early stage design insights."
 
 keynote2:
-  title: "Karin Strauss | TBA"
+  title: "AI Needs a Dose of Its Own Cure to Decarbonize. Let's Do It!"
   authors: "Karin Strauss (Microsoft Research)"
   start: '9:00'
   stop: '9:50'
@@ -187,7 +187,7 @@ keynote2:
   slides: 
   video: 
   yt-id: 
-  abstract: ""
+  abstract: "As we ride the Cambrian explosion of AI, gains in the efficiency of resource use have become ever more important. They make the technology more accessible, enabling more models, features, products, and applications, increasing the value of AI. But as this community has pointed out, efficiency could backfire as a climate strategy: making AI more efficient could spur so much additional use that total consumption and absolute emissions might keep climbing. So if efficiency's shadow twin, the availability of low carbon supply, is neglected, increasing value may come with rising environmental cost. After celebrating the progress this community has made on using resources efficiently, on carbon-aware computing, and on measuring embodied carbon, I will turn to increasing that low carbon supply of electricity and materials to build on, and I will share some of the work we are doing in this space. AI, so often seen as adding pressure against reaching net zero, can instead be a positive force to achieve it. Together, AI that makes resource use more efficient and AI that expands low carbon supply can drive a virtuous cycle, and this community can, and I will argue should, participate in both."
 
 
 papers:
