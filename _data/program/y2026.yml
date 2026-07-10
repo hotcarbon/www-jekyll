@@ -363,7 +363,7 @@ papers:
   author-list:
     - Brian Ramprasad ( University of Toronto )
     - Eyal de Lara ( University of Toronto )
-  # pdf: "/assets/2026/paper-16.pdf"
+  pdf: "/assets/2026/paper-16.pdf"
   # video: ""
   # slides: "/assets/2026/slides-16.pdf"
   session: 5
