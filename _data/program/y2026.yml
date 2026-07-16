@@ -32,7 +32,7 @@ sessions:
   stop: '11:35'
   duration: 80min  
   show: True
-  chair: 
+  chair: Fiodar Kazhamiaka (Microsoft Azure)
 - id: 
   title:  Lunch
   day: 1
@@ -49,7 +49,7 @@ sessions:
   stop: '2:20'
   duration: 80min  
   show: True
-  chair: 
+  chair: Gopika Premsankar (Aalto University)
 - id: 
   title:  Coffee break
   day: 1
@@ -65,7 +65,7 @@ sessions:
   stop: '3:50'
   duration: 80min  
   show: True
-  chair: 
+  chair: Arthi Padmanabhan (Harvey Mudd College)
 - id: 
   title:  Coffee break
   day: 1
@@ -116,15 +116,31 @@ sessions:
   stop: '11:20'
   duration: 80min  
   show: True
-  chair: 
+  chair: Timo Hönig (Ruhr University Bochum)
 - id: 
-  title:  Lunch
+  title: Coffee break
   day: 2
   start: '11:20'
-  stop: '12:30'
-  duration: 70min  
+  stop: '11:30'
+  duration: 10min  
+  show: True
+  note: 
+- id: 
+  title:  Panel
+  day: 2
+  start: '11:30'
+  stop: '12:20'
+  duration: 50min  
   show: True
   chair:
+  note: 
+- id: 
+  title: Coffee break
+  day: 2
+  start: '12:20'
+  stop: '12 :30'
+  duration: 10min  
+  show: True
   note: 
 - id: 5
   title: Systems and Infrastructure-Scale Impacts
@@ -133,32 +149,16 @@ sessions:
   stop: '1:50'
   duration: 80min  
   show: True
-  chair: 
-  note:  
+  chair: Prateek Sharma (Indiana University)
+  note: 
 - id: 
-  title: Coffee break
+  title: 'Closing Remarks'
   day: 2
   start: '1:50'
   stop: '2:00'
   duration: 10min  
   show: True
-  note: 
-- id: 
-  title: Panel
-  day: 2
-  start: '2:00'
-  stop: '2:50'
-  duration: 50min  
-  show: True
-  note: 
-- id: 
-  title: 'Closing Remarks'
-  day: 2
-  start: '2:50'
-  stop: '3:00'
-  duration: 10min  
-  show: True
-  # chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
+  chair: Yi Ding (Purdue) and Rodrigo Fonseca (Microsoft Azure)
   note: 
 # - id: 99
 #   title: Online Program
@@ -179,7 +179,7 @@ keynote:
   abstract: "The environmental impact of computing is projected to grow rapidly over the next decade. Achieving meaningful reductions in climate impact requires reimagining how we design, manufacture, and assess the carbon footprint of computing systems. In this talk, I will first highlight key challenges in incorporating sustainability considerations like carbon into the design process followed by a set of AI driven methods to accelerate embodied carbon estimation. This includes multi-agent systems that collect and reason about publicly available data to reduce cradle-to-gate life-cycle assessments from days to seconds, and interactive interfaces to visualize sustainability data. Together, these techniques seek to empower designers with new decarbonization levers and early stage design insights."
 
 keynote2:
-  title: "AI Needs a Dose of Its Own Cure to Decarbonize. Let's Do It!"
+  title: "AI Needs a Dose of Its Own Cure to Cut the Carbon. Let's Do It!"
   authors: "Karin Strauss (Microsoft Research)"
   start: '9:00'
   stop: '9:50'

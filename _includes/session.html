@@ -10,12 +10,15 @@
 ### {{session.title}}
 {%endif%}
 
-{{session.start}} -- {{session.stop}} ({{session.duration}})
-{: .notice}
-
 {%if session.chair%}
-Chair: {{session.chair}}
+**Time**&emsp; {{session.start}} -- {{session.stop}} ({{session.duration}})  
+**Chair**&emsp;{{session.chair}}
+{: .notice}
+{%else%}
+**Time**&emsp; {{session.start}} -- {{session.stop}} ({{session.duration}})
+{: .notice}
 {%endif%}
+
 
 {%if session.note%}
 {{session.note}}
