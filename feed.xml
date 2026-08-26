@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HotCarbon</title>
+		<description>Workshop on Sustainable Computer Systems</description>
+		<link>https://hotcarbon.org/</link>
+		<atom:link href="https://hotcarbon.org//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Registration is now open!</title>
+				<description>&lt;p class=&quot;notice--warning&quot;&gt;Early registration deadline is July 3rd.&lt;/p&gt;
+
+&lt;p&gt;You can now register via &lt;a href=&quot;https://cvent.me/1XN4Kq&quot;&gt;CVENT&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2026/06/24/registrationOpen.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2026/06/24/registrationOpen.html</guid>
+			</item>
+		
+			<item>
+				<title>Preliminary program is up</title>
+				<description>&lt;p&gt;A preliminary &lt;a href=&quot;/program&quot;&gt;workshop program&lt;/a&gt; is now available.&lt;br /&gt;
+The registration link and location details will follow shortly.&lt;/p&gt;
+
+&lt;p class=&quot;notice--warning&quot;&gt;The workshop will take place on July 16-17th 2026 on the University of Washington, WA, USA.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2026/06/23/progOut.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2026/06/23/progOut.html</guid>
+			</item>
+		
+			<item>
+				<title>Registration and location details are coming up...</title>
+				<description>&lt;p&gt;Just a quick info point that location details and registration links for the workshop are coming up soon.&lt;br /&gt;
+Stay tuned!&lt;/p&gt;
+</description>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2026/06/17/registrationComing.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2026/06/17/registrationComing.html</guid>
+			</item>
+		
+			<item>
+				<title>HotcCarbon 2026 CfP out!</title>
+				<description>&lt;p&gt;The HotCarbon 2026 &lt;a href=&quot;/cfp&quot;&gt;Call for Papers&lt;/a&gt; is out!&lt;br /&gt;
+Submission deadline is &lt;strong&gt;May 18, 2026.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The workshop will take place on July 16-17th 2026 on the University of Washington, WA, USA.&lt;br /&gt;
+Check out the &lt;a href=&quot;/cfp&quot;&gt;Call for Papers&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2026/03/16/cfpOut.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2026/03/16/cfpOut.html</guid>
+			</item>
+		
+			<item>
+				<title>Wrap up of HotCarbon'25</title>
+				<description>&lt;p&gt;HotCarbon’25 was a vibrant success! Thank you to all authors and participants for the great interaction.&lt;br /&gt;
+You can find all the workshop’s papers and some of the authors’ presentations on the &lt;a href=&quot;/2025&quot;&gt;2025 page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for the 2026 edition!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2025/08/14/wrapUp.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2025/08/14/wrapUp.html</guid>
+			</item>
+		
+			<item>
+				<title>Preliminary program is up!</title>
+				<description>&lt;p&gt;The &lt;a href=&quot;/program&quot;&gt;workshop program&lt;/a&gt; is now available!&lt;/p&gt;
+
+&lt;p&gt;HotCarbon’25 is trilled to announce that its program will feature a second keynote from &lt;a href=&quot;https://seas.harvard.edu/person/le-xie&quot;&gt;Le Xie&lt;/a&gt; (Harvard) entitled &lt;em&gt;The Interplay between AI and Electric Power Systems.&lt;/em&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2025/07/01/program.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2025/07/01/program.html</guid>
+			</item>
+		
+			<item>
+				<title>Registration is now open!</title>
+				<description>&lt;p class=&quot;notice--warning&quot;&gt;&lt;strong&gt;Please note!&lt;/strong&gt; In-person participant must register &lt;strong&gt;before July 7th&lt;/strong&gt; to be allowed entry in the workshop building!&lt;/p&gt;
+
+&lt;p&gt;You can now register via &lt;a href=&quot;https://www.eventbrite.com/e/hotcarbon-2025-workshop-tickets-1431566557109&quot;&gt;eventbrite&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2025/06/29/registrationOpen.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2025/06/29/registrationOpen.html</guid>
+			</item>
+		
+			<item>
+				<title>Keynote from Daniel S. Berger</title>
+				<description>&lt;p&gt;HotCarbon’25 is trilled to announce that its program will feature a keynote from &lt;a href=&quot;https://www.microsoft.com/en-us/research/people/daberg/&quot;&gt;Daniel S. Berger&lt;/a&gt;, from Microsoft Azure Systems Research.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for the detailed program and registration info (very) soon!&lt;/p&gt;
+</description>
+				<pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2025/06/27/keynote.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2025/06/27/keynote.html</guid>
+			</item>
+		
+			<item>
+				<title>Slight delay in decision notifications</title>
+				<description>&lt;p&gt;There will be a slight delay in the paper decision notification. Our apologies. Hang on, it’s coming soon!&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2025/06/16/notificationDelay.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2025/06/16/notificationDelay.html</guid>
+			</item>
+		
+			<item>
+				<title>Submission deadline extended</title>
+				<description>&lt;p&gt;Following multiple requests, the HotCarbon’25 submission deadline is extended by one week, to &lt;strong&gt;May 19, 2025 (AoE)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hotcarbon25.hotcrp.com/&quot;&gt;hotcarbon25.hotcrp.com&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+				<link>https://hotcarbon.org//2025/05/12/deadlineExtended.html</link>
+				<guid isPermaLink="true">https://hotcarbon.org//2025/05/12/deadlineExtended.html</guid>
+			</item>
+		
+	</channel>
+</rss>
