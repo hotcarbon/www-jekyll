@@ -297,7 +297,7 @@ papers:
     - Kommy Weldemariam ( Amazon )
     - Aravind Srinivasan ( Amazon )
     - Ryan Bradley ( Amazon Web Services (AWS) )
-  # pdf: "/assets/2026/paper-86.pdf"
+  pdf: "/assets/2026/paper-86.pdf"
   # video: ""
   # slides: "/assets/2026/slides-86.pdf"
   session: 3
