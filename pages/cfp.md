@@ -4,14 +4,18 @@ permalink: /cfp
 
 # Call for Papers
 
+HotCarbon will be back in 2027!  
+You can find below the 2026 Call for Papers for reference.
+{: .notice--warning}
+
 ## Dates and location
 
-- Date: Thu-Fri. July 16-17, 2027  
+- Date: Thu-Fri. July 16-17, 2026  
 _Immediately after OSDI 2026_
 - Location: Seattle, WA, USA
 - Paper registration Deadline: May 11, 2026 (AoE)
 - Submission Deadline: May 18, 2026 (AoE)
-- Notifications: June 19, 2026 (AOE) <!--June 13, 2025-->
+- Notifications: June 19, 2026 (AOE) 
 
 
 <!-- One-page [CfP as PDF (0.2MB)](/assets/2025/HotCarbon25_CfP.pdf)

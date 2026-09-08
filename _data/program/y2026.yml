@@ -134,6 +134,7 @@ sessions:
   show: True
   chair:
   note: 
+  video: https://youtu.be/dmE6XZrujFs
 - id: 
   title: Coffee break
   day: 2
@@ -174,8 +175,7 @@ keynote:
   stop: '10:00'
   duration: 55min  
   slides: 
-  video: 
-  yt-id: 
+  video: https://youtu.be/oTydDE010AM
   abstract: "The environmental impact of computing is projected to grow rapidly over the next decade. Achieving meaningful reductions in climate impact requires reimagining how we design, manufacture, and assess the carbon footprint of computing systems. In this talk, I will first highlight key challenges in incorporating sustainability considerations like carbon into the design process followed by a set of AI driven methods to accelerate embodied carbon estimation. This includes multi-agent systems that collect and reason about publicly available data to reduce cradle-to-gate life-cycle assessments from days to seconds, and interactive interfaces to visualize sustainability data. Together, these techniques seek to empower designers with new decarbonization levers and early stage design insights."
 
 keynote2:
@@ -185,8 +185,7 @@ keynote2:
   stop: '9:50'
   duration: 50min
   slides: 
-  video: 
-  yt-id: 
+  video: https://youtu.be/4HUphKgXxnY
   abstract: "As we ride the Cambrian explosion of AI, gains in the efficiency of resource use have become ever more important. They make the technology more accessible, enabling more models, features, products, and applications, increasing the value of AI. But as this community has pointed out, efficiency could backfire as a climate strategy: making AI more efficient could spur so much additional use that total consumption and absolute emissions might keep climbing. So if efficiency's shadow twin, the availability of low carbon supply, is neglected, increasing value may come with rising environmental cost. After celebrating the progress this community has made on using resources efficiently, on carbon-aware computing, and on measuring embodied carbon, I will turn to increasing that low carbon supply of electricity and materials to build on, and I will share some of the work we are doing in this space. AI, so often seen as adding pressure against reaching net zero, can instead be a positive force to achieve it. Together, AI that makes resource use more efficient and AI that expands low carbon supply can drive a virtuous cycle, and this community can, and I will argue should, participate in both."
 
 
@@ -197,7 +196,7 @@ papers:
     - Boris Ruf ( Axa Research )
     - Marcin Detyniecki ( Axa )
   pdf: "/assets/2026/paper-17.pdf"
-  # video: ""
+  video: https://youtu.be/H1xj-c2DGEU
   # slides: "/assets/2026/slides-17.pdf"
   session: 1
 - title: "Solve the Sudoku: Few-Shot Energy-Latency Map Profiling for Sustainable LLM Serving"
@@ -207,7 +206,7 @@ papers:
     - Deke GUO ( Sun Yat-sen University )
     - Guoming TANG ( The Hong Kong University of Science and Technology (Guangzhou) )
   pdf: "/assets/2026/paper-73.pdf"
-  # video: ""
+  video: https://youtu.be/7DYg6xgqywY
   # slides: "/assets/2026/slides-73.pdf"
   session: 1
 - title: "Energy Characterization of KV Cache Offloading Under Agentic Workloads"
@@ -215,7 +214,7 @@ papers:
     - Gilbert Mao ( Georgia Institute of Technology )
     - Ruiyang Zhou ( Georgia Institute of Technology )
   pdf: "/assets/2026/paper-20.pdf"
-  # video: ""
+  video: https://youtu.be/MaK0DqtZlR4
   # slides: "/assets/2026/slides-20.pdf"
   session: 1
 - title: "Rethinking Thermal and Power Awareness for LLM Serving on Liquid-Cooled GPUs"
@@ -224,7 +223,7 @@ papers:
     - Yasutaka Kono ( Hitachi, Ltd. )
     - Ryota Morimoto ( Hitachi, Ltd. )
   pdf: "/assets/2026/paper-78.pdf"
-  # video: ""
+  video: https://youtu.be/XuC-rQmc9ek
   # slides: "/assets/2026/slides-78.pdf"
   session: 1
 
@@ -238,7 +237,7 @@ papers:
     - Hannaneh B. Pasandi ( University of California, Berkeley )
     - Tamer Nadeem ( Virginia Commonwealth University )
   pdf: "/assets/2026/paper-102.pdf"
-  # video: ""
+  video: https://youtu.be/LYcVxyh6wyA
   # slides: "/assets/2026/slides-102.pdf"
   session: 2
 - title: "Quantifying the Computing Energy Efficiency Paradox"
@@ -247,7 +246,7 @@ papers:
     - Jonathan Balkind ( UC Santa Barbara )
     - Timothy Sherwood ( Independent )
   pdf: "/assets/2026/paper-28.pdf"
-  # video: ""
+  video: https://youtu.be/P69M2PGyZEE
   # slides: "/assets/2026/slides-28.pdf"
   session: 2
 - title: "The Illusion of Reduction: How Software Carbon Metrics Mask Global Footprints"
@@ -257,7 +256,7 @@ papers:
     - Mohammad Shahrad ( University of British Columbia )
     - Changyuan Lin ( University of British Columbia )
   pdf: "/assets/2026/paper-105.pdf"
-  # video: ""
+  video: https://youtu.be/dvxS2zKVivc
   # slides: "/assets/2026/slides-105.pdf"
   session: 2
 - title: "Evaluating LLM Knowledge Placement Techniques for Carbon-Efficiency"
@@ -265,7 +264,7 @@ papers:
     - Rankyung Hong ( University of Minnesota )
     - Abhishek Chandra ( University of Minnesota )
   pdf: "/assets/2026/paper-65.pdf"
-  # video: ""
+  video: https://youtu.be/E4MlUdS1VmE
   # slides: "/assets/2026/slides-65.pdf"
   session: 2
 
@@ -277,7 +276,7 @@ papers:
     - Thibault Simon ( Resilio )
     - Louise Aubet ( Resilio )
   pdf: "/assets/2026/paper-88.pdf"
-  # video: ""
+  video: https://youtu.be/EUA0ZgLfdv0
   # slides: "/assets/2026/slides-88.pdf"
   session: 3
 - title: "Carbon Emissions from Cloud Storage: An Empirical Analysis toward Actionable User Practices for Sustainable Storage"
@@ -286,8 +285,8 @@ papers:
     - Lin Wang ( Paderborn University )
     - Suzan Bayhan ( University of Twente )
   pdf: "/assets/2026/paper-75.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-75.pdf"
+  video: https://youtu.be/Eo3U4yOx1WM
+  slides: "/assets/2026/slides-75.pdf"
   session: 3
 - title: "Amortizing AI Training Carbon Footprint: Challenges, Limitations, and a Path Forward"
   author-list:
@@ -298,7 +297,7 @@ papers:
     - Aravind Srinivasan ( Amazon )
     - Ryan Bradley ( Amazon Web Services (AWS) )
   pdf: "/assets/2026/paper-86.pdf"
-  # video: ""
+  video: https://youtu.be/MHIfE4F6YlM
   # slides: "/assets/2026/slides-86.pdf"
   session: 3
 - title: "Carbon-Aware Dynamic Parallelism for Distributed Training"
@@ -306,8 +305,8 @@ papers:
     - Wafik Aboualim ( University of Pittsburgh )
     - Stephen Lee ( University of Pittsburgh )
   pdf: "/assets/2026/paper-87.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-87.pdf"
+  video: "https://youtu.be/auAKIsxmwU8"
+  slides: "/assets/2026/slides-87.pdf"
   session: 3
 
 
@@ -320,8 +319,8 @@ papers:
     - Rui Lu ( The Hong Kong Polytechnic Univeristy )
     - Dan Wang ( The Hong Kong University of Science and Technology )
   pdf: "/assets/2026/paper-42.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-42.pdf"
+  video: https://youtu.be/0QKInLQQq58
+  slides: "/assets/2026/slides-42.pdf"
   session: 4
 - title: "Evaluating the Influence of Measurement Frequency on Energy Readings Using Intel RAPL and NVIDIA NVML"
   author-list:
@@ -331,7 +330,7 @@ papers:
     - Benedikt Schicker ( Munich University of Applied Sciences HM )
     - Benedikt Zönnchen ( Munich University of Applied Sciences HM )
   pdf: "/assets/2026/paper-46.pdf"
-  # video: ""
+  video: https://youtu.be/tfiYCbiaa20
   # slides: "/assets/2026/slides-46.pdf"
   session: 4
 - title: "Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters"
@@ -341,8 +340,8 @@ papers:
     - Nikos Tziritas ( University of Thessaly )
     - Georgios Theodoropoulos ( Research Institute of Trustworthy Autonomous Systems; Southern University of Science and Technology )
   pdf: "/assets/2026/paper-53.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-53.pdf"
+  video: https://youtu.be/iVIFz2ihdnU
+  slides: "/assets/2026/slides-53.pdf"
   session: 4
 - title: "Towards Query-Aware Core-Type Selection on Heterogeneous Multi-core Processors"
   author-list:
@@ -350,7 +349,7 @@ papers:
     - Yuto Hayamizu ( The University of Tokyo )
     - Kazuo Goda ( The University of Tokyo )
   pdf: "/assets/2026/paper-19.pdf"
-  # video: ""
+  video: https://youtu.be/_byBicOmKpQ
   # slides: "/assets/2026/slides-19.pdf"
   session: 4
 
@@ -364,7 +363,7 @@ papers:
     - Brian Ramprasad ( University of Toronto )
     - Eyal de Lara ( University of Toronto )
   pdf: "/assets/2026/paper-16.pdf"
-  # video: ""
+  video: https://youtu.be/rPm87yFHpOk
   # slides: "/assets/2026/slides-16.pdf"
   session: 5
 - title: "Towards a Digital Twin of the European Power System"
@@ -374,7 +373,7 @@ papers:
     - Paola Nassisi ( Euro-Mediterranean Center on Climate Change (CMCC) )
     - Sandro Luigi Fiore ( University of Trento )
   pdf: "/assets/2026/paper-72.pdf"
-  # video: ""
+  video: https://youtu.be/MQXX2Kp-w2M
   # slides: "/assets/2026/slides-72.pdf"
   session: 5
 - title: "Databases Are Blind to Energy"
@@ -383,16 +382,16 @@ papers:
     - Tobias Rahn ( ETH Zurich )
     - Michal Friedman ( ETH Zurich )
   pdf: "/assets/2026/paper-97.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-97.pdf"
+  video: https://youtu.be/A_mi15IQ0sM
+  slides: "/assets/2026/slides-97.pdf"
   session: 5
 - title: "Beyond Carbon: A Call for Research on the Impacts of Computing Systems on Human Health"
   author-list:
     - Dorota Kopczyk ( University of Minnesota -- Twin Cities )
     - Abhishek Chandra ( University of Minnesota -- Twin Cities )
   pdf: "/assets/2026/paper-63.pdf"
-  # video: ""
-  # slides: "/assets/2026/slides-63.pdf"
+  video: https://youtu.be/EUYDIFpESb0
+  slides: "/assets/2026/slides-63.pdf"
   session: 5
 
 
